@@ -21,7 +21,7 @@ if __name__ == '__main__':
   date = ' '.join(args.date.split('-'))
 
   vars = dict([
-    (os.path.basename(path)[:-3], markdown_path(os.path.join(base_path, path)))
+    (os.path.basename(path)[:-3], md(os.path.join(base_path, path)))
     for path in parts if path.endswith('.md')
   ])
   rendered = template.render(date=date, **vars)
