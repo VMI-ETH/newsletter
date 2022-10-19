@@ -31,7 +31,7 @@ if __name__ == '__main__':
   args = args_parser.parse_args()
   base_path = os.path.join(os.getcwd(), 'contents', args.date)
   parts = os.listdir(base_path)
-  date = ' '.join(args.date.split('-'))
+  date = ' '.join(map(lambda datePart: datePart.capitalize(), args.date.split('-')))
 
   vars = dict([
     # [:-3] to skip the file extension
