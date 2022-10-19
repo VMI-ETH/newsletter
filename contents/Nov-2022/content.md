@@ -4,6 +4,8 @@
 D-INFK’s new help-desk is also looking for peer support counsellors.
 The latter will be trained by AVETH, together with their counselling team.
 
+<hr>
+
 ## Upcoming Events
 
 ### Board Game Night
