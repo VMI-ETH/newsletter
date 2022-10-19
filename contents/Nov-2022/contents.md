@@ -1,0 +1,5 @@
+* [Announcements](#announcements)
+* [Board Game Night](#board-game-night)
+* [Karaoke](#karaoke)
+* [Running Dinner](#running-dinner)
+* [VMI-CSNOW Lunch for Female PhDs and Postdocs](#vmi-csnow-lunch-for-female-phds-and-postdocs)
