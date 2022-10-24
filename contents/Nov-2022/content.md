@@ -26,7 +26,9 @@ We will start with dinner and then continue with karaoke.
 Feel free to join and don't worry about your singing abilities.
 For those who want to showcase their vocal skills, this is a unique chance to make new friendships (or ruin old ones) at the VMI Karaoke night!
 
-[Sign up here](https://forms.gle/LwhmFecM5Bsb4ovy7)
+To get the party started, the first round of drinks is on us!
+
+[Sign up here](https://forms.gle/LwhmFecM5Bsb4ovy7).
 
 ### Procrastination and Prioritization Unworkshop
 
