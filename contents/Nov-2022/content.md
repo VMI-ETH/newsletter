@@ -1,4 +1,4 @@
-## Announcements
+## 🔊 Announcements
 
 > We are looking for new members to join our board. Reach out if you are interested!
 D-INFK’s new help-desk is also looking for peer support counsellors.
@@ -6,7 +6,7 @@ The latter will be trained by AVETH, together with their counselling team.
 
 <hr>
 
-## Upcoming Events
+## 📅 Upcoming Events
 
 ### Board Game Night
 
