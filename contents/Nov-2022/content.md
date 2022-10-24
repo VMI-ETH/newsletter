@@ -19,20 +19,25 @@ We’ll bring snacks and a selection of board games to try out - bring your favo
 
 ### Karaoke
 
-**Thursday, November 3, 19:00, Lamky **
+**Thursday, November 3, 19:00, Lamky**
 
-An evening of fun and singing on the 3rd of November! We will start with dinner and then continue with karaoke. Feel free to join even if you feel shy about your singing abilities, and for those who want to showcase their vocal skills, this is a unique chance to make new friendships (or ruin old ones) at the VMI Karaoke night!
+An evening of fun and singing on the 3rd of November!
+We will start with dinner and then continue with karaoke.
+Feel free to join and don't worry about your singing abilities.
+For those who want to showcase their vocal skills, this is a unique chance to make new friendships (or ruin old ones) at the VMI Karaoke night!
+
 [Sign up here](https://forms.gle/LwhmFecM5Bsb4ovy7)
-
 
 ### Procrastination and Prioritization Unworkshop
 
-**Thursday, November 17, 16:30 **
+**Thursday, November 17, 16:30**
 
-On Thursday the 17th, VMI is hosting the Procrastination and Prioritisation Unworkshop! Join us for a discussion into the psychology of the procrastinator. Apart from the main presentation, there will be interactive exercises and the opportunity to learn useful tips and tricks from other PhD students and postdocs. The workshop ends with an apéro and a chance to network with the other participants. 
-[Sign up here](https://forms.gle/dAaCc1wcmCJ7iAAE6)
+On Thursday the 17th, VMI is hosting the Procrastination and Prioritization Unworkshop!
+Join us for a discussion into the psychology of the procrastinator.
+Apart from the main presentation, there will be interactive exercises and the opportunity to learn useful tips and tricks from other PhD students and postdocs.
+The workshop ends with an apéro and a chance to network with the other participants.
 
-
+[Sign up here](https://forms.gle/dAaCc1wcmCJ7iAAE6).
 
 ### Running Dinner
 

@@ -1,5 +1,6 @@
 * [Announcements](#announcements)
 * [Board Game Night](#board-game-night)
 * [Karaoke](#karaoke)
+* [Procrastination and Prioritization Unworkshop](#procrastination-and-prioritization-unworkshop)
 * [Running Dinner](#running-dinner)
 * [VMI-CSNOW Lunch for Female PhDs and Postdocs](#vmi-csnow-lunch-for-female-phds-and-postdocs)
