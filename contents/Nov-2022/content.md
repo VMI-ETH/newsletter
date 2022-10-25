@@ -47,13 +47,12 @@ The workshop ends with an apéro and a chance to network with the other particip
 
 VMI invites you to *Running Dinner* – the tastiest way to meet new people!
 
-Pair up with your office mate, flat mate or partner and cook 1 course at your place for you and 4 other people.
+Pair up with your office mate, flat mate, partner, etc. and cook 1 course at your place for you and 4 other people.
 An algorithm will assign 2 teams that get to enjoy the course with you and tells you where you’ll enjoy the other 2 courses.
 
 Overall, you cook 1 course and get to enjoy 3 courses while meeting 12 new people (4 per course).
 
-[More information here](http://vmi.ethz.ch/news/event/2022/10/24/running-dinner/).
-Sign up will be announced later.
+[Sign up here](https://rudirockt.de/en/events/vmi-running-dinner).
 
 ### VMI-CSNOW Lunch for Female PhDs and Postdocs
 
