@@ -52,7 +52,7 @@ An algorithm will assign 2 teams that get to enjoy the course with you and tells
 
 Overall, you cook 1 course and get to enjoy 3 courses while meeting 12 new people (4 per course).
 
-[Sign up here](https://rudirockt.de/en/events/vmi-running-dinner).
+[More information & sign up here](https://rudirockt.de/en/events/vmi-running-dinner).
 
 ### VMI-CSNOW Lunch for Female PhDs and Postdocs
 
