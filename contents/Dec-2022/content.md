@@ -12,9 +12,9 @@ The latter will be trained by AVETH, together with their counselling team.
 
 **Thursday, December 1, 16:30, CAB H52**
 
-[Description] 
+The VMI hosts an interactive stress-management workshop organised by external coach Rachel Suery, followed by an apéro and a chance to network with the other workshop participants. Mainly aimed at PhD students, postdocs and research staff, this 90-minutes workshop will provide you with the tools to manage the various pressures of a career in research. 
 
-[Sign up here]().
+[Sign up here](https://forms.gle/wrVyW6Z6MWsXarfAA).
 
 ### Juggling Workshop 
 
