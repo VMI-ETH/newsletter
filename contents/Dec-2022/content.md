@@ -28,9 +28,9 @@ The latter will be trained by AVETH, together with their counselling team.
 
 **Monday, December 12, 18:30, OAS K33 (Binzmühlestrasse 13)**
 
-Join us for a cosy evening of painting, crafting, glühwein and Christmas cookies! 
+To celebrate the winter season, join us for a cosy evening of painting, crafting, glühwein and Christmas cookies! 
 
-We’ll provide painting/crafting supplies, Christmassy drinks and snacks, ideas on what to paint/make - all you need to bring is a glass/cup to drink from.
+We’ll provide everything you need to get creative: canvas, paints, brushes, crafts materials and ideas on what to paint and make - plus Christmassy drinks and snacks! All you need to do is bring something to drink from (glass or cup).
 
 Spots are limited, so be sure to sign up early! We’ll be at the AI Center’s exciting new location in Oerlikon. 
 
