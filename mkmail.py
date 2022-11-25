@@ -20,7 +20,7 @@ that, the compiler will capitalize every string and replace dashes with spaces.
 args_parser.add_argument('--date', required=True, help='''
 Date of the newsletter. Must be a valid directory within ./contents.
 ''')
-args_parser.add_argument('--out', default=None, help='''
+args_parser.add_argument('--out', required=True, help='''
 File to write the rendered document to. If omitted, will be written to stdout.
 ''')
 
@@ -41,8 +41,5 @@ if __name__ == '__main__':
   rendered = template.render(date=date, **vars)
   inlined = transform(rendered)
 
-  if args.out is not None:
-    with open(args.out, 'w', encoding='utf8') as fp:
-      print(inlined, file=fp)
-  else:
-    print(inlined)
+  with open(args.out, 'w', encoding='utf8') as fp:
+    print(inlined, file=fp)
