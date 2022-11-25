@@ -24,13 +24,13 @@ Join us for an interactive stress-management workshop organised by external coac
 
 [Sign up here]().
 
-### Christmas Crafts & Glühwein Night 
+### Christmas Crafts & Glühwein
 
 **Monday, December 12, 18:30, OAS K33 (Binzmühlestrasse 13)**
 
 To celebrate the winter season, join us for a cosy evening of painting, crafting, glühwein and Christmas cookies! 
 
-We’ll provide everything you need to get creative: canvas, paints, brushes, crafts materials and ideas on what to paint and make - plus Christmassy drinks and snacks! All you need to do is bring a glass or cup to drink from.
+We’ll provide everything you need to get creative: canvas, paints, brushes, crafts materials and ideas on what to paint and make - plus Christmassy drinks and snacks! All you need to bring is a glass or cup to drink from.
 
 Spots are limited, so be sure to sign up early! We’ll be at the AI Center’s brand new location in Oerlikon. 
 
