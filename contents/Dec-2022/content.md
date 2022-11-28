@@ -28,3 +28,4 @@ Spots are limited, so be sure to sign up early! We’ll be at the AI Center’s 
 
 [Sign up here](https://forms.gle/NrHKgqp2opKCHjXD8).
 
+<img src="http://vmi.ethz.ch/images/xmas-paint-night-example.jpg" width="100%">
