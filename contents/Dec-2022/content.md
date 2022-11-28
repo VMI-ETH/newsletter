@@ -16,14 +16,6 @@ Join us for an interactive stress-management workshop organised by external coac
 
 [Sign up here](https://forms.gle/wrVyW6Z6MWsXarfAA).
 
-### Juggling Workshop 
-
-**Wednesday, December 7, 18:30, [location]**
-
-[Description]
-
-[Sign up here]().
-
 ### Christmas Crafts & Glühwein
 
 **Monday, December 12, 18:30, OAS K33 (Binzmühlestrasse 13)**
