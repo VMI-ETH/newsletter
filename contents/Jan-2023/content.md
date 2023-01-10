@@ -18,4 +18,4 @@ It's a great way to actively relax, impress your friends and family, and just ha
 
 We’ll provide everything needed to create your own juggling balls, and then instruct you how to learn to juggle. There will be snacks and drinks.
 
-[Sign up here](https://forms.gle/wrVyW6Z6MWsXarfAA).
+[Sign up here](https://forms.gle/SLWRJVSGuP4fgvdh8).
