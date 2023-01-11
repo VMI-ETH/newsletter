@@ -1,8 +1,11 @@
 ## 🔊 Announcements
 
-> We are looking for new members to join our board. Reach out if you are interested!
-D-INFK’s new help-desk is also looking for peer support counsellors.
-The latter will be trained by AVETH, together with their counselling team.
+> Martino Sindaci will run the VMI helpdesk from now on!
+> Thank you so much for stepping up, Martino!
+>
+> Our helpdesk integrates into the [counseling services offered by AVETH](https://www.aveth.ethz.ch/counselling-oct21/counselling-help/), and you can reach it for all kinds of advice under: [vmi-helpdesk@lists.inf.ethz.ch](mailto:vmi-helpdesk@lists.inf.ethz.ch)
+>
+> We are always looking for new members to join our board. Reach out if you are interested!
 
 <hr>
 
