@@ -1,4 +1,13 @@
-## 🔊 Announcements
+## 🔊 New VMI Helpdesk
+
+The helpdesk is a confidential service run by volunteers from the department, who provide a listening ear from colleague to colleague.
+The desk is an entry point for early-stage discussion of personal and professional issues.
+We can help you find a path forward through listening, advice, and tips on the relevant offices and services available at ETH.
+
+The helpdesk is a safe space and is strictly confidential.
+No information is shared outside of the helpdesk's volunteers without your consent.
+
+Do not hesitate to drop us an email at [vmi-helpdesk@lists.inf.ethz.ch](mailto:vmi-helpdesk@lists.inf.ethz.ch).
 
 <hr>
 
