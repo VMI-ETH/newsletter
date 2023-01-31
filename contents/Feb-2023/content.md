@@ -1,4 +1,6 @@
-## 🔊 New VMI Helpdesk
+## 🔊 Announcements
+
+### New VMI Helpdesk
 
 The helpdesk is a confidential service run by volunteers from the department, who provide a listening ear from colleague to colleague.
 The desk is an entry point for early-stage discussion of personal and professional issues.
@@ -8,6 +10,13 @@ The helpdesk is a safe space and is strictly confidential.
 No information is shared outside of the helpdesk's volunteers without your consent.
 
 Do not hesitate to drop us an email at [vmi-helpdesk@lists.inf.ethz.ch](mailto:vmi-helpdesk@lists.inf.ethz.ch).
+
+### New VMI Treasurer
+
+In the last board meeting, Karel Kubicek handed over his role as treasurer to Giovanni Deligios.
+Thank you, Karel, for your long and diligent work and welcome, Giovanni!
+
+If you want to have caviar at the next VMI BBQ, Giovanni is the person to invite to a coffee.
 
 <hr>
 
