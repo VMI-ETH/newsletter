@@ -1,3 +1,4 @@
+* [Get Involved - Open Positions on the VMI Board](#get-involved-open-positions-on-the-vmi-board)
 * [Summer Retreat in Laax - Save the Date](#summer-retreat-in-laax-save-the-date)
 * [Teaching Survey](#teaching-survey)
 * [Closing the VMI Slack](#closing-the-vmi-slack)
