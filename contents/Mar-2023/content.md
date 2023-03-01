@@ -54,7 +54,7 @@ At the General Assembly (beginning 12:45), we will present the work of the past 
 
 ### Bowling
 
-**March 22, 19:30, PLACE**
+**March 22, 19:30, [Bowling Center Zurich](https://goo.gl/maps/nd4Nqdov2zdFjbry6)**
 
 Blood, sweat, and tears.
 Bowling can be a rollercoaster of emotions.
