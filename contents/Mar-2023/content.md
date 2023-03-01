@@ -10,6 +10,8 @@ The retreat is fully supported by the department, so there's no need to take vac
 
 Save the date and look out for more details coming soon! 
 
+To see what we got up to in previous years, have a look at the [2022](http://vmi.ethz.ch/news/event/2022/09/27/summer-retreat-retrospective/) and [2021](http://vmi.ethz.ch/news/event/2022/02/21/summer-retreat-retrospective/) retreat retrospectives. 
+
 ### Teaching Survey
 
 ### Closing the VMI Slack
