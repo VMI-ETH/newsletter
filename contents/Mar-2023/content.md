@@ -7,7 +7,7 @@ You can **join the executive board or become a representative** at the DK or UK 
 
 Joining VMI is a great opportunity to help make D-INFK a better workplace, learn about ETH politics, and also have some fun!
 
-[Get in touch](mailto:vmi-contact@lists.inf.ethz.ch) should you be interested.
+[Get in touch](mailto:vmi-contact@lists.inf.ethz.ch) if you're interested.
 
 ### Summer Retreat 2023
 
@@ -31,11 +31,11 @@ Please fill it in as soon as you receive it!
 
 ### Closing the VMI Slack
 
-We will close the VMI Slack for the public in the next weeks.
-The Slack has been a great asset in times of pandemic when hallway chatter vanished.
-Since the return to offices activity slowly faded, which led to our decision to close it.
+In the next few weeks, we will close the VMI Slack. 
 
-You can as always reach us by [mail](mailto:vmi-contact@lists.inf.ethz.ch) or contact our new [VMI helpdesk](http://vmi.ethz.ch/contact/#helpdesk).
+While it was a great asset in pandemic times when hallway chatter vanished, activity has slowly faded since the return to offices, which led to our decision to close it.
+
+Look out for our emails for news of upcoming events! You can as always reach us by [mail](mailto:vmi-contact@lists.inf.ethz.ch) or contact our new [VMI helpdesk](http://vmi.ethz.ch/contact/#helpdesk).
 
 <hr>
 
@@ -43,21 +43,21 @@ You can as always reach us by [mail](mailto:vmi-contact@lists.inf.ethz.ch) or co
 
 ### VMI Lunch + General Assembly
 
-**March 15, 12:00, CAB F 88**
+**Wednesday, March 15, 12:00, CAB F 88**
 
-You should have already received a formal invitation, but let us also invite you here to VMI lunch followed by our General Assembly.
+You should have already received a formal invitation, but let us also invite you here to VMI lunch followed by our General Assembly!
 
-During the lunch, we have some food and would like to hear about your views on the department, as well as any ideas or suggestions you have for VMI.
+During the lunch, we'll have some food and would like to hear about your views on the department, as well as any ideas or suggestions you have for VMI.
 At the General Assembly (beginning 12:45), we will present the work of the past year, discuss plans for 2023, and elect new representatives and a new board.
 
 [Sign up here.](https://docs.google.com/forms/d/e/1FAIpQLSdidYMvjiTE_8axohWf8570aUrPPW5ehIvosacZsz-ix-jkjg/viewform?usp=sf_link)
 
 ### Bowling
 
-**March 22, 19:30, [Bowling Center Zurich](https://goo.gl/maps/nd4Nqdov2zdFjbry6)**
+**Wednesday, March 22, 19:30, [Bowling Center Zurich](https://goo.gl/maps/nd4Nqdov2zdFjbry6)**
 
 Blood, sweat, and tears.
 Bowling can be a rollercoaster of emotions.
-Screem "Strike" while downing three Bananenweizen and join us for a ride!
+Scream "Strike" while downing three Bananenweizen and join us for a ride!
 
 [Sign up here.](https://docs.google.com/forms/d/e/1FAIpQLSfQqm5zW2WpWRFiXyrO-pAg_ESuqYRuAQwjowncM3RUCprinw/viewform?usp=sf_link)
