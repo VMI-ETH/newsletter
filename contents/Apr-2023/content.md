@@ -40,6 +40,6 @@ You can find all regulations regarding the aptitude colloquium [here](https://in
 
 Meet new people in the ETH Computer Science department by joining us for our Random Lunches event! We'll match you up with 1-2 buddies from different institutes within the department.
 
-Once you sign up, we'll give you the email contacts of your new lunch buddies. You can decide on a date and place to get together for lunch sometime in April. There is no participation fee but VMI cannot pay for the lunch.
+Once you sign up, we'll give you the email contacts of your new lunch buddies. You can decide on a date and place to get together for lunch sometime in April. There is no participation fee but participants pay for their own lunch.
 
 [Sign up here by 10th April.](https://forms.gle/dxAHdHzmcTZWjVdZ7)
