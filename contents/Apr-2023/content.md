@@ -1,5 +1,39 @@
 ## 🔊 Announcements
 
+### General Assembly + New Executive Board
+
+We held the VMI General Assembly in March, at which a new executive board was elected.
+Matilda Backendal decided to step down as president.
+We would like to thank Matilda for her long and outstanding work as a president!
+Fortunately, Matilda will stick around as an executive board member.
+Also, Bogdan Ursu decided to step down from the executive board.
+Thank you for your work!
+
+For newcomers, Anh Duong Vo joined the executive board and Felix Linker was elected as the new VMI president.
+
+### Teaching Survey
+
+We launched the VMI teaching survey recently.
+The goal of the survey is to understand better who spends how much time on what kind of tasks.
+Please help us by filling out the survey [here](https://evaluation-app1.let.ethz.ch/TakeSurvey.aspx?SurveyID=782I7mmM)!
+The survey is authenticated in order to ensure the integrity of the results, and you can log in using your ETH password for web applications (AAI/LDAP).
+All data will be anonymised.
+
+You can find more details about the survey [here](http://vmi.ethz.ch/teaching-survey/).
+
+### Experience Report: Aptitude Colloquia
+
+At every VMI Welcome Event, new doctoral students ask us: What is this aptitude colloquium that I must attend?
+To provide you with a feeling for the aptitude colloquia, our board member Linard Arquint attended some of them and wrote an [experience report](https://vmi.ethz.ch/aptitude-colloquium/) for you.
+
+You can find all regulations regarding the aptitude colloquium [here](https://inf.ethz.ch/doctorate/doctoral-study-program/doctoral_research.html).
+
+<hr>
+
+## 📅 Upcoming Events
+
+### Making Sushi with D-MAVT
+
 ### Random Lunches
 
 **Get to know 1-2 new people, flexible in April during lunch time, flexible lunch place**
