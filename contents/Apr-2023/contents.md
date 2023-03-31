@@ -1,5 +1,4 @@
 * [General Assembly + New Executive Board](#general-assembly-new-executive-board)
 * [Teaching Survey](#teaching-survey)
 * [Experience Report: Aptitude Colloquia](#experience-report-aptitude-colloquia)
-* [Making Sushi with D-MAVT](#making-sushi-with-d-mavt)
 * [Random Lunches](#random-lunches)

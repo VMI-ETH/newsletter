@@ -32,8 +32,6 @@ You can find all regulations regarding the aptitude colloquium [here](https://in
 
 ## 📅 Upcoming Events
 
-### Making Sushi with D-MAVT
-
 ### Random Lunches
 
 **Get to know 1-2 new people, flexible in April during lunch time, flexible lunch place**
