@@ -1,4 +1,5 @@
 * [General Assembly + New VMI Executive Board](#general-assembly-new-vmi-executive-board)
 * [VMI Teaching Survey](#vmi-teaching-survey)
 * [Experience Report: Aptitude Colloquia](#experience-report-aptitude-colloquia)
+* [Join the ETH University Assembly](#join-the-eth-university-assembly)
 * [Random Lunches](#random-lunches)

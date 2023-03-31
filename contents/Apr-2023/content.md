@@ -28,6 +28,15 @@ To provide you with a feeling for the aptitude colloquia, our board member Linar
 
 You can find all regulations regarding the aptitude colloquium [here](https://inf.ethz.ch/doctorate/doctoral-study-program/doctoral_research.html).
 
+### Join the ETH University Assembly
+
+AVETH seeks German-speaking members for the University Assembly to represent scientific staff the ETH level.
+At the University Assembly, you can learn about politics at ETH and voice your opinions.
+Attendance can be awarded with one credit point as part of your doctoral studies.
+You can learn more about the University Assembly [here](https://ethz.ch/de/die-eth-zuerich/organisation/gremien-gruppen-kommissionen/hochschulversammlung.html).
+
+If you are interested, [get in touch with us!](mailto:vmi-contact@lists.inf.ethz.ch)
+
 <hr>
 
 ## 📅 Upcoming Events
