@@ -1,6 +1,6 @@
 ## 🔊 Announcements
 
-### General Assembly + New Executive Board
+### General Assembly + New VMI Executive Board
 
 We held the VMI General Assembly in March, at which a new executive board was elected.
 Matilda Backendal decided to step down as president.
@@ -11,7 +11,7 @@ Thank you for your work!
 
 For newcomers, Anh Duong Vo joined the executive board and Felix Linker was elected as the new VMI president.
 
-### Teaching Survey
+### VMI Teaching Survey
 
 We launched the VMI teaching survey recently.
 The goal of the survey is to understand better who spends how much time on what kind of tasks.
