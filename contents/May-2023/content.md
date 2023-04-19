@@ -36,7 +36,7 @@ This time, you will also get the chance to meet some Doctoral students and Postd
 **May 2-8, ETH Center**
 
 The Student Sustainability Committee (SSC) invites you to dive deeper into sustainable mobility around ETH!
-Join them for various workshops and discussions such as "Making sustainable travel decisions" from May the 2nd to May the 8th.
+Join them from May the 2nd to May the 8th for workshops such as "Making sustainable travel decisions" and discussions like "Mobility around ETH", which will include guests from the city of Zurich.
 
 [Register here!](http://bit.ly/3zV6N5r) You can also join spontaneously, but registrations are appreciated.
 
