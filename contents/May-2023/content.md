@@ -2,9 +2,9 @@
 
 ### VMI Teaching Survey
 
-We launched the VMI teaching survey recently.
-We would greatly appreciate your participation!
-[Fill out the survey here](https://evaluation-app1.let.ethz.ch/TakeSurvey.aspx?SurveyID=782I7mmM) if you have not done so already!
+The department and VMI would like to improve the teaching system at D-INFK. For that, VMI recently launched a survey on the teaching and supervision load of scientific staff. Your feedback is invaluable in understanding how teaching and student supervision works at the department and identifying potential problems.
+
+[Fill out the survey here](https://evaluation-app1.let.ethz.ch/TakeSurvey.aspx?SurveyID=782I7mmM) if you have not done so already! We would greatly appreciate your participation, and it should only take around 5 minutes to complete.
 
 The survey is authenticated in order to ensure the integrity of the results, and you can log in using your ETH password for web applications (AAI/LDAP).
 All data will be anonymised.
@@ -22,7 +22,7 @@ You can find more details about the survey [here](http://vmi.ethz.ch/teaching-su
 VMI and VMM, the association for scientific staff at D-MATH, invite you to a joint running dinner in May!
 
 At a running dinner, you team up with a partner (who need not be at D-INFK) to eat a three-course dinner over the evening.
-You will prepare one of these courses yourself and host it your or your partner's place.
+You will prepare one of these courses yourself and host it at your or your partner's place.
 For the other two courses, you visit other people's places (hence running (!) dinner).
 At every course, you will meet new people!
 The evening will be topped off with an after-party.
