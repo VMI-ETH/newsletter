@@ -56,7 +56,7 @@ Join them from May the 2nd to May the 8th for workshops such as "Making sustaina
 
 **May 23, CAB Food&Lab, 17:00 - 19:00**
 
-Are you unsure whether to make your next career steps in academia or industry? Come to the CSNOW career panel on May 23! Four speakers with different career paths will share their experiences and insights about working in these two distinct worlds and answers questions you might have. You will also have the chance to talk to the panelist directly at the Apéro following the event. The event is open to everyone from D-INFK.
+Are you unsure whether to make your next career steps in academia or industry? Come to the CSNOW career panel on May 23! Four speakers with different career paths will share their experiences and insights about working in these two distinct worlds and answer questions you might have. You will also have the chance to talk to the panelists directly at the Apéro following the event. The event is open to everyone from D-INFK.
 
 [Sign up here.](https://forms.gle/F1uVgs9f6EWZQYoQA)
 
