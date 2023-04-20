@@ -2,7 +2,7 @@
 
 ### VMI Teaching Survey
 
-The department and VMI would like to improve the teaching system at D-INFK. For that, VMI recently launched a survey on the teaching and supervision load of scientific staff. Your feedback is invaluable in understanding how teaching and student supervision works at the department and identifying potential problems.
+VMI recently launched a survey on the teaching and supervision load of scientific staff. Your feedback is invaluable in understanding how teaching and student supervision works at the department and identifying potential problems.
 
 [Fill out the survey here](https://evaluation-app1.let.ethz.ch/TakeSurvey.aspx?SurveyID=782I7mmM) if you have not done so already! We would greatly appreciate your participation, and it should only take around 5 minutes to complete.
 
