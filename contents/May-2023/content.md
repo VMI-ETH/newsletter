@@ -31,7 +31,7 @@ This time, you will also get the chance to meet some Doctoral students and Postd
 
 [Sign up and find more detailed instructions here.]()
 
-### CSNOW-VMI lunch for women researchers
+### CSNOW-VMI Lunch for Women Researchers
 
 **June 6, 12:30**
 
