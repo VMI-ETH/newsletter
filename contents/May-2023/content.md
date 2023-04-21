@@ -33,7 +33,7 @@ This time, you will also get the chance to meet some Doctoral students and Postd
 
 ### CSNOW-VMI Lunch for Women Researchers
 
-**June 6, 12:30**
+**June 6, CAB, 12:30**
 
 Meet your female colleagues at D-INFK over free lunch! Save the date and stay tuned for more details.
 
