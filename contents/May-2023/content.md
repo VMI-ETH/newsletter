@@ -52,7 +52,7 @@ Join them from May the 2nd to May the 8th for workshops such as "Making sustaina
 
 ![](https://www.ssc.ethz.ch/wp-content/uploads/2023/04/MobilityWeek_Flyers-1090x1536.png)
 
-### CSNOW Career Panel
+### CSNOW Career Panel on Academia vs Industry: Exploring Challenges and Rewards
 
 **May 23, CAB Food&Lab, 17:00 - 19:00**
 
