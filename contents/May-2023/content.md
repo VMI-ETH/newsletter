@@ -16,7 +16,7 @@ You can find more details about the survey [here](http://vmi.ethz.ch/teaching-su
 ## 📅 Upcoming VMI Events
 
 <center>
-  <img width="50%" src="http://vmi.ethz.ch/images/2023-05-13-running-dinner.png">
+  <img width="250" src="http://vmi.ethz.ch/images/2023-05-13-running-dinner.png">
 </center>
 
 ### D-INFK + D-MATH Running Dinner
@@ -55,7 +55,10 @@ Join them from May the 2nd to May the 8th for workshops such as "Making sustaina
 
 [Register here.](http://bit.ly/3zV6N5r) You can also join spontaneously, but registrations are appreciated.
 
-![](https://www.ssc.ethz.ch/wp-content/uploads/2023/04/MobilityWeek_Flyers-1090x1536.png)
+
+<center>
+  <img width="400" src="https://www.ssc.ethz.ch/wp-content/uploads/2023/04/MobilityWeek_Flyers-1090x1536.png">
+</center>
 
 ### CSNOW Career Panel
 **Academia vs Industry: Exploring Challenges and Rewards**
