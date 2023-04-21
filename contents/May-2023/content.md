@@ -6,7 +6,7 @@ VMI recently launched a survey on the teaching and supervision load of scientifi
 
 [Fill out the survey here](https://evaluation-app1.let.ethz.ch/TakeSurvey.aspx?SurveyID=782I7mmM) if you have not done so already! We would greatly appreciate your participation, and it should only take around 5 minutes to complete.
 
-The survey is authenticated in order to ensure the integrity of the results, and you can log in using your ETH password for web applications (AAI/LDAP).
+The survey is authenticated to ensure the integrity of the results, and you can log in using your ETH password for web applications (AAI/LDAP).
 All data will be anonymised.
 
 You can find more details about the survey [here](http://vmi.ethz.ch/teaching-survey/).

@@ -5,5 +5,5 @@ We would love to see you there!
 
 Also, we are excited to share some events that happen around ETH with you.
 
-We wish you a lovely spring time
+We wish you a lovely springtime
 -- Your VMI Board
