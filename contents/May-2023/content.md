@@ -29,7 +29,8 @@ The evening will be topped off with an after-party.
 
 This time, you will also get the chance to meet some Doctoral students and Postdocs from the Department of Mathematics!
 
-[Sign up and find more detailed instructions here.]()
+[Sign up and find more detailed instructions here.](https://www.rudirockt.de/de/events/rudirockt-zurich-vvm-mai-2023)
+We raffle grocery-shopping vouchers amongst participants!
 
 ### CSNOW-VMI Lunch for Women Researchers
 
@@ -60,4 +61,3 @@ Join them from May the 2nd to May the 8th for workshops such as "Making sustaina
 Are you unsure whether to make your next career steps in academia or industry? Come to the CSNOW career panel on May 23! Four speakers with different career paths will share their experiences and insights about working in these two distinct worlds and answer questions you might have. You will also have the chance to talk to the panelists directly at the Apéro following the event. The event is open to everyone from D-INFK.
 
 [Sign up here.](https://forms.gle/F1uVgs9f6EWZQYoQA)
-
