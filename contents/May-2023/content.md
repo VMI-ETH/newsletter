@@ -15,6 +15,10 @@ You can find more details about the survey [here](http://vmi.ethz.ch/teaching-su
 
 ## 📅 Upcoming VMI Events
 
+<center>
+  <img width="50%" src="http://vmi.ethz.ch/images/2023-05-13-running-dinner.png">
+</center>
+
 ### D-INFK + D-MATH Running Dinner
 
 **May 13, 18:00**
