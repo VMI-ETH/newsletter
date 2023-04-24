@@ -25,7 +25,7 @@ You can find more details about the survey [here](http://vmi.ethz.ch/teaching-su
 
 VMI and VMM, the association for scientific staff at D-MATH, invite you to a joint running dinner in May!
 
-At a running dinner, you team up with a partner (who need not be at D-INFK) to eat a three-course dinner over the evening.
+At a running dinner, you team up with a partner (who need not be at ETH) to eat a three-course dinner over the evening.
 You will prepare one of these courses yourself and host it at your or your partner's place.
 For the other two courses, you visit other people's places (hence running (!) dinner).
 At every course, you will meet new people!
