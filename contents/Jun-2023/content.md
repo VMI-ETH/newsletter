@@ -26,7 +26,7 @@ Once you sign up, we'll put you into teams of 8-12 D-INFK members - it's a great
 
 **June 16, Werdinsel, 18:00**
 
-Summer is here and VMI invites you to celebrate with us at our BBQ! We'll have free food and drinks, and plenty of new and old friends to meet! Join us by the Limmat on [Werdinsel](https://goo.gl/maps/ak9cPr883acJ36ut6).
+Celebrate the start of summer with us at our BBQ! We'll have free food and drinks, and plenty of new and old friends to meet! Join us by the Limmat on [Werdinsel](https://goo.gl/maps/ak9cPr883acJ36ut6).
 
 What to bring: your own Tupperware/plate and cutlery, plus a swimsuit and towel (if you want to take a dip in the Limmat)! 
 
