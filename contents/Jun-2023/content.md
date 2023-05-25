@@ -2,11 +2,11 @@
 
 ### Join the VMI Executive Board
 
-With the semester almost over, many of you might wonder what they will TA next semester, or which courses they might want to teach.
+With the semester almost over, many of you might be starting to think about which courses you might want to teach next semester.
 
-Have you considered joining the VMI board? At the VMI board, you get exciting insights into politics at ETHZ and our department, and you can organize fun events for your colleagues - such as the summer retreat!
+Have you considered joining the VMI board? You'll get exciting insights into politics at ETHZ and our department, and you can organise fun events for your colleagues - such as the summer retreat!
 
-Work on the VMI board can be voluntarily, but can also be compensated with teaching or credit points!
+Work on the VMI board can be voluntary, but can also be compensated with teaching or credit points!
 Get in touch: [vmi-contact@lists.inf.ethz.ch](mailto:vmi-contact@lists.inf.ethz.ch)
 
 ### Summer Retreat 2023
@@ -15,7 +15,9 @@ Get in touch: [vmi-contact@lists.inf.ethz.ch](mailto:vmi-contact@lists.inf.ethz.
 
 Every year, VMI hosts our famous Summer Retreat, which brings together D-INFK scientific staff for 4 days of fun, networking, science and learning. This year's Summer Retreat will be in Laax. The retreat is fully supported by the department, so there's no need to take vacation days to attend. 
 
-We're excited to announce that sign up is now open. [Register here](https://forms.gle/gcc6sSGcd7KFQ8Q76) before **June 15**!
+We're excited to announce that sign up is now open! [Register here](https://forms.gle/gcc6sSGcd7KFQ8Q76) before **June 15**.
+
+For more information about the retreat, [see here](http://vmi.ethz.ch/news/event/2023/03/01/retreat/).
 
 To see what we got up to in previous years, have a look at the [2022](http://vmi.ethz.ch/news/event/2022/09/27/summer-retreat-retrospective/) and [2021](http://vmi.ethz.ch/news/event/2022/02/21/summer-retreat-retrospective/) retreat retrospectives. 
 
