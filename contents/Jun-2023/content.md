@@ -27,7 +27,7 @@ To see what we got up to in previous years, have a look at the [2022](http://vmi
 
 **June 6, CAB, 12:30**
 
-Meet your female colleagues at D-INFK over free lunch! Save the date and stay tuned for more details.
+Meet your female colleagues at D-INFK over free lunch! Sign up and we'll update you on the concrete location in CAB closer to the time.
 
 [Sign up here.](https://forms.gle/msmEpjt51WR6P4vL8)
 
