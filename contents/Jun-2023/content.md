@@ -1,5 +1,14 @@
 ## 🔊 Announcements
 
+### Join the VMI Executive Board
+
+With the semester almost over, many of you might wonder what they will TA next semester, or which courses they might want to teach.
+
+Have you considered joining the VMI board? At the VMI board, you get exciting insights into politics at ETHZ and our department, and you can organize fun events for your colleagues - such as the summer retreat!
+
+Work on the VMI board can be voluntarily, but can also be compensated with teaching or credit points!
+Get in touch: [vmi-contact@lists.inf.ethz.ch](mailto:vmi-contact@lists.inf.ethz.ch)
+
 ### Summer Retreat 2023
 
 **September 9-12 and 14-17, Laax, Switzerland**

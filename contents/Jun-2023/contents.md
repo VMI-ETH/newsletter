@@ -1,3 +1,5 @@
+* [Join the VMI Board!](#join-the-vmi-executive-board)
+* [Summer Retreat 2023](#summer-retreat-2023)
 * [CSNOW-VMI Lunch for Women Researchers](#csnow-vmi-lunch-for-women-researchers)
-* [Hönggergames](#hönggergames)
+* [Hönggergames](#honggergames)
 * [Summer BBQ](#summer-bbq)
