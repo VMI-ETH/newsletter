@@ -15,6 +15,13 @@ AVETH represents all doctoral students in this working group and recently gave [
 
 ## 📅 Upcoming Events
 
-### VMI Bouldering + Beer
+### VMI Boulder4Beer
 
 **July 17, [Minimum Leutsch](https://goo.gl/maps/muP3Sn4QoL5Q2N5N9), 19:00**
+
+Join VMI for a fun night of bouldering challenges for all levels!
+Solve problems for free drinks and eternal glory.
+Admission is not included, but if you don’t have your own bouldering shoes VMI will provide you with some.
+See you there!
+
+[Sign up here](https://docs.google.com/forms/d/e/1FAIpQLScfUnsFsGMNik2F8boYRuO3R5xVziXCH-Yg_i1eCKYWn94skQ/viewform?usp=sf_link)
