@@ -14,4 +14,4 @@ In case of bad weather, we’ll paint in CAB — we’ll send out an email close
 
 Spots are limited, so sign up fast! We'll email you if you get a spot. 
 
-[Sign up here.](https://forms.gle/tQmWaZ7LuiYsvwFM8)
+[Sign up here.](https://forms.gle/qEyMkQRV5xYt7NGR9)
