@@ -2,7 +2,7 @@
 
 ## 📅 Upcoming Events
 
-### Outdoor Paint & Sip Night
+### Outdoor Paint and Sip Night
 
 **August 21, [Landiwiese](https://goo.gl/maps/NdGMJ1bC8QPoWqvH6), 18:30**
 
