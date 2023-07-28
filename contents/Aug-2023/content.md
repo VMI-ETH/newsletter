@@ -23,3 +23,12 @@ In case of bad weather, we’ll paint in CAB — we’ll send out an email close
 Spots are limited, so sign up fast! We'll email you if you get a spot.
 
 [Sign up here.](https://forms.gle/qEyMkQRV5xYt7NGR9)
+
+### ETHZ Lunchmates
+
+AMB, the association for scientific staff at D-BIOL, together with other DAs, started *lunchmates*.
+If you want to meet other doctoral students and postdocs from other DAs, look no further!
+
+As soon as you sign up to the lunchmates community, you will be assigned to new lunch buddies on your campus every 2 weeks.
+
+[Sign up here.](https://www.lunchmates.org/communities/ethz-phd-and-postdoc-lunchmates-mingle-central-campus)
