@@ -3,7 +3,7 @@
 ### Get Teaching or Credit Points on the VMI Board
 
 We invite you to consider joining the VMI board!
-Work on the VMI board can be voluntary, but can also be compensated with teaching or credit points.
+Work on the VMI board can be voluntary but can also be compensated with teaching or credit points.
 You'll get exciting insights into politics at ETHZ and our department, and you can organise fun events for your colleagues - such as the summer retreat!
 
 Get in touch: [vmi-contact@lists.inf.ethz.ch](mailto:vmi-contact@lists.inf.ethz.ch)
