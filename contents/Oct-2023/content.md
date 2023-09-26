@@ -8,7 +8,7 @@
 
 Join us for after-work drinks at The Alehouse next week! 
 
-It's a great chance to reconnect with your summer retreat friends - or to get to know some new people at the department. 
+It's a great chance to reconnect with your summer retreat friends, or to get to know some new people at the department. 
 
 [Sign up here.](https://forms.gle/bqHiKxXM1Nd5CZsm7)
 
