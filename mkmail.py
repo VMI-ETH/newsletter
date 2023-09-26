@@ -12,7 +12,7 @@ This tool compiles a set of markdown documents into a .html document that can
 be send as newsletter.
 
 The compiler assumes that the --date option is a directory in ./contents. It
-will take the three files intro.md, contents.md, and content.md, compile them,
+will take the three files intro.md, toc.md, and body.md, compile them,
 and merge them with the template file.
 The compiler will also use date argument to set the date of the newsletter. For
 that, the compiler will capitalize every string and replace dashes with spaces.
