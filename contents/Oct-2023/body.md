@@ -26,7 +26,7 @@ Make the most of the last few weeks of sun with a hike! [Add details]. We'll als
 
 ### Welcome Event
 
-**Date TBD, CAB Food&Lab**
+**Date TBD, [CAB Food&Lab](https://ethz.ch/en/campus/getting-to-know/cafes-restaurants-shops/gastronomy/restaurants-and-cafeterias/zentrum/food-lab.html)**
 
 If you joined D-INFK within the last year, you're invited to our annual Welcome Event for new scientific staff! 
 
