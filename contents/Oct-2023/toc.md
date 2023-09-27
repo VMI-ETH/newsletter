@@ -1,5 +1,5 @@
 * [Join Hiring Committees](#join-hiring-committees)
 * [Join the ETH Library Sounding Board](#join-the-eth-library-sounding-board)
 * [Pub Night](#pub-night)
-* [Hike](#hike)
+* [Hike with VMM](#hike-with-vmm)
 * [Welcome Event](#welcome-event)

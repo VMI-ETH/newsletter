@@ -27,13 +27,19 @@ Join us for after-work drinks at The Alehouse next week! Get to know some new pe
 
 [Sign up here.](https://forms.gle/bqHiKxXM1Nd5CZsm7)
 
-### Hike
+### Hike with VMM
 
-**[Date], [Location], [Time]**
+**October 14, ~10:00**
 
-Make the most of the last few weeks of sun with a hike! [Add details]. We'll also be joined by our friends from D-MATH! 
+Make the most of the last few weeks of sun with a hike, jointly organized by our friends from D-MATH.
+The hike is a great opportunity to enjoy the outdoors.
 
-[Sign up here.]()
+We expect the hike itself to take no more than 4 hours, with an elevation of less than 800m.
+More details will be released soon.
+
++1s are welcome!
+
+[Sign up here.](https://docs.google.com/forms/d/e/1FAIpQLSfl14ZRICVJ00J4N8yRcWo67FZEKPXdLTW9taSw0WlTdiowsg/viewform?usp=sf_link)
 
 ### Welcome Event
 
