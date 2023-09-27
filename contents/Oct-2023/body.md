@@ -16,4 +16,20 @@ Join us for after-work drinks at The Alehouse next week! Get to know some new pe
 
 [Sign up here.](https://forms.gle/bqHiKxXM1Nd5CZsm7)
 
+### Hike
+
+**[Date], [Location], [Time]**
+
+Make the most of the last few weeks of sun with a hike! [Add details]. We'll also be joined by our friends from D-MATH! 
+
+[Sign up here.]()
+
 ### Welcome Event
+
+**Date TBD, CAB Food&Lab**
+
+If you joined D-INFK within the last year, you're invited to our annual Welcome Event for new scientific staff! 
+
+It's a great chance to get to know the department and VMI, meet fellow new staff members, and enjoy an apéro together. We'll also have keynote talks from D-INFK professors on how to make the most of your time at ETH, how to organise your teaching and research responsibilities, and much more. 
+
+Stay tuned for an email with more details! 
