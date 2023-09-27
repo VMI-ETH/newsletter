@@ -22,7 +22,7 @@ Join us for after-work drinks at The Alehouse next week! Get to know some new pe
 
 **October 14, ~10:00**
 
-Join us for an easy hike on Saturday, October 14, jointly organised by D-MATH and D-INFK! The hike is a great opportunity to mingle and enjoy the outdoors while the weather still permits. The location will be near Zürich and we will visit a restaurant or café.
+Join us for an easy hike on Saturday, October 14, jointly organised by D-MATH and D-INFK! The hike is a great opportunity to enjoy the outdoors while the weather still permits. The location will be near Zürich and we'll also stop by a restaurant or café.
 
 The hike itself should take no more than 4 hours, with an elevation of less than 800m. More details will be released soon.
 
