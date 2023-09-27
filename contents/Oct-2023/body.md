@@ -2,9 +2,11 @@
 
 ### Join Hiring Committees
 
-Hiring season is starting soon, and the department is forming two hiring committees in the areas of **Computing Platforms** and **Theoretical Computer Science**.
+Hiring season is starting soon, and the department is forming two hiring committees in the areas of **Computing Platforms** and **Theoretical Computer Science**. We're looking for VMI representatives for these committees! 
 
-If you are interested in representing the scientific staff at either of these committees, please reach out to [vmi-contact@lists.inf.ethz.ch](mailto:vmi-contact@lists.inf.ethz.ch) by the end of the week (better as soon as possible)!
+As a VMI representative, you'll not only get a behind-the-scenes look at how hiring works in academia, but you'll also get to interact with candidates applying to be professors at the department. This is an important way to make sure our department maintains a pleasant working environment!
+
+If you are interested in representing the scientific staff on either of these committees, please reach out to [vmi-contact@lists.inf.ethz.ch](mailto:vmi-contact@lists.inf.ethz.ch) by the end of the week (better as soon as possible)!
 
 ## 📅 Upcoming Events
 
