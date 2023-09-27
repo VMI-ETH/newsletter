@@ -8,6 +8,15 @@ As a VMI representative, you'll not only get a behind-the-scenes look at how hir
 
 If you are interested in representing the scientific staff on either of these committees, please reach out to [vmi-contact@lists.inf.ethz.ch](mailto:vmi-contact@lists.inf.ethz.ch) by the end of the week (better as soon as possible)!
 
+### Join the ETH Library Sounding Board
+
+The ETH Libraries’ Scientific Staff Sounding Board is looking or new members!
+Board members help tailoring the library to the scientific staff at ETH Zurich, focussing on teaching and research.
+Board members join up to two workshops per year with a maximum duration of three hours each.
+Participation is compensated with Orell Füssli vouchers (30 CHF/hour).
+
+If you are interested, please reach out to [vmi-contact@lists.inf.ethz.ch](mailto:vmi-contact@lists.inf.ethz.ch).
+
 ## 📅 Upcoming Events
 
 ### Pub Night
