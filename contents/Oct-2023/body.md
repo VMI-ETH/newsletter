@@ -2,7 +2,7 @@
 
 ### Join Hiring Committees
 
-Hiring season is starting soon, and the department is forming two hiring committees in the areas of **Computing Platforms** and **Theoretical Computer Science**. We're looking for VMI representatives for these committees! 
+Hiring season is starting soon, and the department is forming two hiring committees in the areas of **Computing Platforms** and **Theoretical Computer Science**. We're looking for VMI representatives for these committees!
 
 As a VMI representative, you'll not only get a behind-the-scenes look at how hiring works in academia, but you'll also get to interact with candidates applying to be professors at the department. This is an important way to make sure our department maintains a pleasant working environment!
 
@@ -30,8 +30,8 @@ Make the most of the last few weeks of sun with a hike! [Add details]. We'll als
 
 **Date TBD, [CAB Food&Lab](https://ethz.ch/en/campus/getting-to-know/cafes-restaurants-shops/gastronomy/restaurants-and-cafeterias/zentrum/food-lab.html)**
 
-If you joined D-INFK within the last year, you're invited to our annual Welcome Event for new scientific staff! 
+If you joined D-INFK within the last year, you're invited to our annual Welcome Event for new scientific staff!
 
-It's a great chance to get to know the department and VMI, meet fellow new staff members, and enjoy an apéro together. We'll also have keynote talks from D-INFK professors on how to make the most of your time at ETH, how to organise your teaching and research responsibilities, and much more. 
+It's a great chance to get to know the department and VMI, meet fellow new staff members, and enjoy an apéro together. We'll also have keynote talks from D-INFK professors on how to make the most of your time at ETH, how to organise your teaching and research responsibilities, and much more.
 
-Stay tuned for an email with more details! 
+Stay tuned for an email with more details!
