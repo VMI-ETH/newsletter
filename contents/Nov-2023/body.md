@@ -18,9 +18,9 @@ Following this, we'll reconvene for an apéro, where you can meet some fellow ne
 
 **November 9, CAB H 52, 18:30**
 
-[Text] 
+Bring your friends and your favourite board games to VMI Game Night! We’ll have a selection of fun board games to try out, as well as free drinks and snacks.
 
-[Sign up here.]()
+[Sign up here.](https://forms.gle/WrfHVtWwvCgEaHAu7)
 
 ### VMI Lunch and General Assembly
 
