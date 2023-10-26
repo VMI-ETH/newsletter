@@ -58,9 +58,14 @@ We will also elect a new board!
 
 **November 18, your house, 18:00**
 
-[Text]
+VMI invites you to *Running Dinner* – the tastiest way to meet new people!
 
-[Sign up here.]()
+Pair up with your office mate, flat mate, partner, etc. and cook 1 course at your place for you and 4 other people.
+An algorithm will assign 2 teams that get to enjoy the course with you and tells you where you’ll enjoy the other 2 courses.
+
+Overall, you cook 1 course and get to enjoy 3 courses while meeting 12 new people (4 per course).
+
+[More information & sign up here]().
 
 ### CSNOW-VMI Lunch for Women Researchers
 
