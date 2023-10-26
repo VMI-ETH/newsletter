@@ -3,9 +3,9 @@
 > ### New VMI Representatives + Auditors
 >
 > In preparation for our upcoming [General Assembly](#vmi-lunch-general-assembly), we are looking for the following volunteers:
->t
-> - Representatives at the **Department Conference** (can be compensated with 1 CP)
-> - Representatives at the **Studies Committee** (can be compensated with 1 CP)
+>
+> - Representatives at the **Department Conference** (can be compensated with 1 credit point)
+> - Representatives at the **Studies Committee** (can be compensated with 1 credit point)
 > - **Auditors** of VMI's books
 >
 > You can find a description of these positions as well as the current representatives on our [people page](http://vmi.ethz.ch/people/).
@@ -16,7 +16,7 @@
 >
 > We are looking for a new person to run the VMI helpdesk!
 The helpdesk is a confidential service and entry point for early-stage discussion of personal and professional issues.
-> The helpdesk integrates into the [counseling services offered by AVETH](https://www.aveth.ethz.ch/counselling-oct21/counselling-help/), and should you decide to run the helpdesk, you will receive a short training and instructions from AVETH!
+> The helpdesk integrates into the [counseling services offered by AVETH](https://www.aveth.ethz.ch/counselling-oct21/counselling-help/), and if you decide to run the helpdesk, you will receive a short training and instructions from AVETH!
 >
 > Interested? Reach out to [vmi-contact@lists.inf.ethz.ch](mailto:vmi-contact@lists.inf.ethz.ch)!
 
@@ -63,7 +63,7 @@ VMI invites you to *Running Dinner* – the tastiest way to meet new people!
 Pair up with your office mate, flat mate, partner, etc. and cook 1 course at your place for you and 4 other people.
 An algorithm will assign 2 teams that get to enjoy the course with you and tells you where you’ll enjoy the other 2 courses.
 
-Overall, you cook 1 course and get to enjoy 3 courses while meeting 12 new people (4 per course).
+Overall, you cook 1 course and get to enjoy 3 courses while meeting 12 new people!
 
 [More information & sign up here]().
 
@@ -79,7 +79,7 @@ Overall, you cook 1 course and get to enjoy 3 courses while meeting 12 new peopl
 
 **December 4, [CAB Food&Lab](https://ethz.ch/en/campus/getting-to-know/cafes-restaurants-shops/gastronomy/restaurants-and-cafeterias/zentrum/food-lab.html), 16:15**
 
-We warmly invite you to the VMI Career Evening! Ever questioned what comes next after a PhD or Postdoc? Curious about transitioning from academia to industry? Our Career Event features a panel discussion with no less than 5 professionals from diverse career paths, all rooted in an academic foundation. Following the panel, attendees will have the opportunity for intimate group discussions with the speaker. The evening will close with a delightful Apéro.
+We warmly invite you to the VMI Career Evening! Ever questioned what comes next after a PhD or Postdoc? Curious about transitioning from academia to industry? Our Career Evening features a panel discussion with no less than 5 professionals from diverse career paths, all rooted in an academic foundation. Following the panel, attendees will have the opportunity for small group discussions with the speaker. The evening will close with a delightful apéro.
 Whether you're eyeing a future in academia or considering other avenues, join us for an enlightening discussion and discover the possibilities that await!
 
 [Sign up here.](https://forms.gle/rWGXgB8a6FjWVXgA7)
