@@ -1,1 +1,7 @@
-
+* [Welcome Event](#welcome-event)
+* [Board Game Night](#board-game-night)
+* [VMI Lunch and General Assembly](#vmi-lunch-and-general-assembly)
+* [Running Dinner](#running-dinner)
+* [Lunch for Women Researchers](#lunch-for-women-researchers)
+* [Career Evening](#career-evening)
+* [Christmas Crafts and Glühwein](#christmas-crafts-and-glühwein)
