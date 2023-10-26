@@ -1,5 +1,27 @@
 ## 🔊 Announcements
 
+### New VMI Representatives + Auditors
+
+> In preparation for our upcoming [General Assembly](#vmi-lunch--general-assembly), we are looking for the following volunteers:
+>
+> - Representatives at the **Department Conference** (can be compensated with 1 CP)
+> - Representatives at the **Studies Committee** (can be compensated with 1 CP)
+> - **Auditors** of VMI's books
+>
+> You can find a description of these positions as well as the current representatives on our [people page](http://vmi.ethz.ch/people/).
+>
+> Interested? Reach out to [vmi-contact@lists.inf.ethz.ch](mailto:vmi-contact@lists.inf.ethz.ch)!
+
+### Helpdesk Volunteer Wanted
+
+> We are looking for a new person to run the VMI helpdesk!
+The helpdesk is a confidential service and entry point for early-stage discussion of personal and professional issues.
+> The helpdesk integrates into the [counseling services offered by AVETH](https://www.aveth.ethz.ch/counselling-oct21/counselling-help/), and should you decide to run the helpdesk, you will receive a short training and instructions from AVETH!
+>
+> Interested? Reach out to [vmi-contact@lists.inf.ethz.ch](mailto:vmi-contact@lists.inf.ethz.ch)!
+
+<hr>
+
 ## 📅 Upcoming Events
 
 ### Welcome Event
@@ -54,12 +76,34 @@ Bring your friends and your favourite board games to VMI Game Night! We’ll hav
 
 [Sign up here.]()
 
-### Christmas Crafts & Glühwein
+### Save the Date: Christmas Crafts & Glühwein
 
-**December 13, location TBD, 18:30**
+**December 13, 18:30**
 
 To celebrate the winter season, join us for a cosy evening of painting, crafting, glühwein and Christmas cookies!
 
 We’ll provide everything you need to get creative: canvas, paints, brushes, crafts materials and ideas on what to paint and make - plus Christmassy drinks and snacks! All you need to bring is a glass or cup to drink from.
 
-Save the date and stay tuned for more details! 
+Save the date and stay tuned for more details!
+
+<hr>
+
+## Other
+
+### Join the AVETH Politics Team
+
+The AVETH poltics team is looking for new members, especially from D-INFK!
+The AVETH politics team represents the view of the scientific staff in the University Assembly and is in close contact with the ETH School Board.
+To coordinate, the team meets once per month.
+
+Joining the politics team not only lets you have a unique impact at how work and life at ETH is shaped, you will also gain great insight into the inner workings of a world-class university.
+The only prerequisite is that you speak German, as the ETH meetings that the politics team joins are held in German.
+
+Interested? Reach out to [vmi-contact@lists.inf.ethz.ch](mailto:vmi-contact@lists.inf.ethz.ch)!
+
+### AVETH Diversity Award
+
+AVETH & ETH Diversity are taking individual and organisation nominations for the ETH Diversity Award until October 31st 2023.
+We highly encourage you to consider nominating colleagues who have made an impact at ETH.
+Self-nominations are possible.
+More information on the award and the nomination form can be found [here](https://ethz.ch/staffnet/en/employment-and-work/working-environment/diversity/auszeichnungen/diversity-award.html).
