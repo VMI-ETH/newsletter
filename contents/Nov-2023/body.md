@@ -6,11 +6,11 @@
 
 **November 1, [CAB Food&Lab](https://ethz.ch/en/campus/getting-to-know/cafes-restaurants-shops/gastronomy/restaurants-and-cafeterias/zentrum/food-lab.html), 17:30**
 
-We cordially invite all D-INFK scientific staff who joined within the last year to our annual Welcome Event! It's a great chance to get to know the department and VMI (your scientific staff association), meet fellow new staff members, and enjoy an apéro together.
+We invite all scientific staff who joined our department within the last year to our annual Welcome Event!
+It's a great chance to get to know the department and VMI (your scientific staff association), meet fellow new staff members, and enjoy an apéro together.
 
-Meet us in Food&Lab for an introduction to VMI, followed by two parallel keynote talks: new PhD students will hear from Prof. Markus Püschel, and new postdocs from Prof. Kenny Paterson. They'll give insights and helpful tips on making the most of your time at D-INFK - including organising your research and teaching responsibilities, the research plan and aptitude colloquium, opportunities for career development, and much more. 
-
-Following this, we'll reconvene for an apéro, where you can meet some fellow new scientific staff! 
+Meet us in Food&Lab for an introduction to VMI, followed by two parallel keynote talks: new PhD students will hear from Prof. Markus Püschel, and new postdocs from Prof. Kenny Paterson. They'll give insights and helpful tips on making the most of your time at D-INFK.
+Following this, we'll reconvene for an apéro, where you can meet some fellow new scientific staff!
 
 [Sign up here.](https://forms.gle/veVLpnwRkWCxxy538)
 
