@@ -1,9 +1,9 @@
 ## 🔊 Announcements
 
-### New VMI Representatives + Auditors
-
-> In preparation for our upcoming [General Assembly](#vmi-lunch--general-assembly), we are looking for the following volunteers:
+> ### New VMI Representatives + Auditors
 >
+> In preparation for our upcoming [General Assembly](#vmi-lunch-general-assembly), we are looking for the following volunteers:
+>t
 > - Representatives at the **Department Conference** (can be compensated with 1 CP)
 > - Representatives at the **Studies Committee** (can be compensated with 1 CP)
 > - **Auditors** of VMI's books
@@ -12,8 +12,8 @@
 >
 > Interested? Reach out to [vmi-contact@lists.inf.ethz.ch](mailto:vmi-contact@lists.inf.ethz.ch)!
 
-### Helpdesk Volunteer Wanted
-
+> ### Helpdesk Volunteer Wanted
+>
 > We are looking for a new person to run the VMI helpdesk!
 The helpdesk is a confidential service and entry point for early-stage discussion of personal and professional issues.
 > The helpdesk integrates into the [counseling services offered by AVETH](https://www.aveth.ethz.ch/counselling-oct21/counselling-help/), and should you decide to run the helpdesk, you will receive a short training and instructions from AVETH!
