@@ -58,6 +58,8 @@ Following this, we'll reconvene for an apéro, where you can meet some fellow ne
 
 **December 13, location TBD, 18:30**
 
-[Text]
+To celebrate the winter season, join us for a cosy evening of painting, crafting, glühwein and Christmas cookies!
+
+We’ll provide everything you need to get creative: canvas, paints, brushes, crafts materials and ideas on what to paint and make - plus Christmassy drinks and snacks! All you need to bring is a glass or cup to drink from.
 
 Save the date and stay tuned for more details! 
