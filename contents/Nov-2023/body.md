@@ -44,13 +44,15 @@ Bring your friends and your favourite board games to VMI Game Night! We’ll hav
 
 [Sign up here.](https://forms.gle/WrfHVtWwvCgEaHAu7)
 
-### VMI Lunch and General Assembly
+### VMI Lunch + General Assembly
 
-**November 14, [location], 12:30 - 14:00**
+**November 14, CAB F 88, 12:30 - 14:00**
 
-[Text]
+We invite you to join our lunch and general assembly!
+At this event, we will first enjoy some food together, followed by a presentation of what VMI has been working on in this year.
+We will also elect a new board!
 
-[Sign up here.]()
+[Sign up here.](https://docs.google.com/forms/d/e/1FAIpQLSecT_VEkr0YvQ2mEqr5MqKLgsWFv74hz0tKOGERFB7fuMR6UA/viewform?usp=sf_link)
 
 ### Running Dinner
 
