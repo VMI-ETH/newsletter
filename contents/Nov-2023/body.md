@@ -44,7 +44,7 @@ Bring your friends and your favourite board games to VMI Game Night! We’ll hav
 
 [Sign up here.](https://forms.gle/WrfHVtWwvCgEaHAu7)
 
-### VMI Lunch + General Assembly
+### VMI Lunch & General Assembly
 
 **November 14, CAB F 88, 12:30 - 14:00**
 

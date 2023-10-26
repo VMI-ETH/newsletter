@@ -1,13 +1,13 @@
 * Events
   * [Welcome Event](#welcome-event)
   * [Board Game Night](#board-game-night)
-  * [VMI Lunch and General Assembly](#vmi-lunch-and-general-assembly)
+  * [VMI Lunch and General Assembly](#vmi-lunch-general-assembly)
   * [Running Dinner](#running-dinner)
-  * [Lunch for Women Researchers](#lunch-for-women-researchers)
+  * [Lunch for Women Researchers](#csnow-vmi-lunch-for-women-researchers)
   * [Career Evening](#career-evening)
-  * [Christmas Crafts and Glühwein](#christmas-crafts-and-glühwein)
+  * [Christmas Crafts & Glühwein](#save-the-date-christmas-crafts-gluhwein)
 * Announcements
-  * [New VMI Representatives + Auditors](#new-vmi-representatives--auditors)
+  * [New VMI Representatives + Auditors](#new-vmi-representatives-auditors)
   * [Helpdesk Volunteer Wanted](#helpdesk-volunteer-wanted)
   * [Join the AVETH Politics Team](#join-the-aveth-politics-team)
   * [AVETH Diversity Award](#aveth-diversity-award)
