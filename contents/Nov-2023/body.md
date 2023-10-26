@@ -79,9 +79,10 @@ Overall, you cook 1 course and get to enjoy 3 courses while meeting 12 new peopl
 
 **December 4, [CAB Food&Lab](https://ethz.ch/en/campus/getting-to-know/cafes-restaurants-shops/gastronomy/restaurants-and-cafeterias/zentrum/food-lab.html), 16:15**
 
-[Text]
+We warmly invite you to the VMI Career Evening! Ever questioned what comes next after a PhD or Postdoc? Curious about transitioning from academia to industry? Our Career Event features a panel discussion with no less than 5 professionals from diverse career paths, all rooted in an academic foundation. Following the panel, attendees will have the opportunity for intimate group discussions with the speaker. The evening will close with a delightful Apéro.
+Whether you're eyeing a future in academia or considering other avenues, join us for an enlightening discussion and discover the possibilities that await!
 
-[Sign up here.]()
+[Sign up here.](https://forms.gle/rWGXgB8a6FjWVXgA7)
 
 ### Save the Date: Christmas Crafts & Glühwein
 
