@@ -56,7 +56,7 @@ We will also elect a new board!
 
 ### Running Dinner
 
-**November 18, your house and OAT for the afterparty, 18:00**
+**November 18, your house (dinner) and OAT (afterparty), 18:00**
 
 VMI invites you to *Running Dinner* – the tastiest way to meet new people!
 
