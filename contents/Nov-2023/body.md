@@ -36,7 +36,7 @@ Following this, we'll reconvene for an apéro, where you can meet some fellow ne
 
 [Sign up here.](https://forms.gle/veVLpnwRkWCxxy538)
 
-### Board Game Night 
+### Board Game Night
 
 **November 9, CAB H 52, 18:30**
 
@@ -56,14 +56,16 @@ We will also elect a new board!
 
 ### Running Dinner
 
-**November 18, your house, 18:00**
+**November 18, your house and OAT for the afterparty, 18:00**
 
 VMI invites you to *Running Dinner* – the tastiest way to meet new people!
 
-Pair up with your office mate, flat mate, partner, etc. and cook 1 course at your place for you and 4 other people.
-An algorithm will assign 2 teams that get to enjoy the course with you and tells you where you’ll enjoy the other 2 courses.
+At the running dinner, you will eat a three-course dinner during the evening (while preparing one of these courses yourself), followed by an after-party at OAT with everyone who participated in the running dinner!
 
-Overall, you cook 1 course and get to enjoy 3 courses while meeting 12 new people!
+Team up with a partner (office mate, flat mate, ...) and cook *one* course at your place for you and four other people.
+You will go to someone else's place for the other courses, and will host two other teams for the course that you cook.
+Overall, you meet twelve people during the evening!
+There even is a Wikipedia entry for [Running Dinners](https://de.wikipedia.org/wiki/Running_Dinner) ([English version](https://en.wikipedia.org/wiki/Progressive_dinner))!
 
 [More information & sign up here]().
 
