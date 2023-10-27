@@ -1,13 +1,13 @@
 Dear VMI members,
 
-Although the autumn semester has already started last month, we finally have a what-feels-like autumn.
-Last month, we wrote a [Summer Retreat 2023 Retrospective](http://vmi.ethz.ch/news/event/2023/10/11/summer-retreat-retrospective/), and we have a lot of events coming up!
+Although the autumn semester already started last month, it's now finally feeling like autumn! 
 
-For example, the all-time classic [Running Dinner](#running-dinner) (if you don't know what this is, we encourage you to read on)!
+We have so many events planned for you this month - for example, the all-time classic [Running Dinner](#running-dinner) (if you don't know what this is, we encourage you to read on)!
 
-Moreover, we are looking for volunteers to help running this department and VMI!
-Make sure to read the announcements.
+Moreover, we are looking for volunteers to help running this department and VMI - make sure to read the announcements! 
 
-We wish you a cozy November!
+Finally, if you're interested in what we got up to during our annual summer retreat, check out our [Summer Retreat 2023 Retrospective](http://vmi.ethz.ch/news/event/2023/10/11/summer-retreat-retrospective/)! 
+
+We wish you a cosy November!
 
 -- Your VMI Board
