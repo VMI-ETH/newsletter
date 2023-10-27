@@ -71,11 +71,11 @@ There even is a Wikipedia entry for [Running Dinners](https://de.wikipedia.org/w
 
 ### CSNOW-VMI Lunch for Women Researchers
 
-**[date], [location], 12:30**
+**November 23, CAB H 53, 12:30**
 
-[Text]
+VMI and CSNOW would like to help female PhD students, postdocs and other researchers at D-INFK to connect with each other and have a platform to share their experience and knowledge. Join us for free lunch to meet other women in CS!
 
-[Sign up here.]()
+[Sign up here.](https://forms.gle/AHsPL8c4C4tAq94XA)
 
 ### Career Evening
 
