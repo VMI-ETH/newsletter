@@ -110,10 +110,3 @@ Joining the politics team not only lets you have a unique impact at how work and
 The only prerequisite is that you speak German, as the ETH meetings that the politics team joins are held in German.
 
 Interested? Reach out to [vmi-contact@lists.inf.ethz.ch](mailto:vmi-contact@lists.inf.ethz.ch)!
-
-### AVETH Diversity Award
-
-AVETH & ETH Diversity are taking individual and organisation nominations for the ETH Diversity Award until October 31st 2023.
-We highly encourage you to consider nominating colleagues who have made an impact at ETH.
-Self-nominations are possible.
-More information on the award and the nomination form can be found [here](https://ethz.ch/staffnet/en/employment-and-work/working-environment/diversity/auszeichnungen/diversity-award.html).
