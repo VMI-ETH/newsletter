@@ -1,5 +1,4 @@
 * Events
-  * [Welcome Event](#welcome-event)
   * [Board Game Night](#board-game-night)
   * [VMI Lunch and General Assembly](#vmi-lunch-general-assembly)
   * [Running Dinner](#running-dinner)
