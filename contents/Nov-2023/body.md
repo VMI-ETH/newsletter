@@ -56,6 +56,7 @@ Overall, you meet twelve people during the evening!
 There even is a Wikipedia entry for [Running Dinners](https://de.wikipedia.org/wiki/Running_Dinner) ([English version](https://en.wikipedia.org/wiki/Progressive_dinner))!
 
 [More information & sign up here](https://docs.google.com/forms/d/e/1FAIpQLSdS7y5dTQpnHrHoSWarjlRRkJ3DHNtMqjF0Azymo2I1mD6R_A/viewform?usp=sf_link).
+We raffle grocery vouchers among early sign-ups!
 
 ### CSNOW-VMI Lunch for Women Researchers
 
