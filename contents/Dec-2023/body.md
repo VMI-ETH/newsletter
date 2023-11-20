@@ -21,5 +21,5 @@ We’ll provide everything you need to get creative: canvas, paints, brushes, cr
 
 Spots are limited, so we recommend you sign up early! 
 
-[Sign up here.]()
+[Sign up here.](https://forms.gle/ycvHTeMkWNUkjm6y7)
 
