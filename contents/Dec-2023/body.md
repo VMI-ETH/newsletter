@@ -16,7 +16,7 @@ Thank you, Matilda, for your years of great work!
 
 Earlier this month, ETH announced that the salaries of Doctoral students will be decoupled from the SNF rate and receive the same adjustments for inflation as all other staff in 2024.
 (See the announcement [here](https://ethz.ch/staffnet/en/news-and-events/internal-news/archive/2023/11/salary-adjustments-for-scientific-assistants.html).)
-This change was a result from negotiations within the salary working, which was formed earlier this year.
+This change was a result of negotiations within the salary working group, formed earlier this year.
 AVETH represented all scientific staff in this working group, and VMI was part of AVETH's team, representing you, the scientific staff of D-INFK.
 
 Work in the salary working group will continue, and it is VMI's and AVETH's goal that doctoral students receive the same adjustments for inflation as all other employees beyond 2024!
