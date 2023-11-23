@@ -29,13 +29,13 @@ If you would like to receive more updates from AVETH's representatives at the wo
 
 **December 4, [CAB Food&Lab](https://ethz.ch/en/campus/getting-to-know/cafes-restaurants-shops/gastronomy/restaurants-and-cafeterias/zentrum/food-lab.html), 16:15**
 
-We warmly invite you to the [VMI Career Evening](https://vmi.ethz.ch/news/event/2023/11/16/career-evening/)! Ever questioned what comes next after a PhD or Postdoc? Curious about transitioning from academia to industry? Our Career Evening features a panel discussion with no less than 5 professionals from diverse career paths:
+We warmly invite you to the [VMI Career Evening](https://vmi.ethz.ch/news/event/2023/11/16/career-evening/)! Ever questioned what comes next after a PhD or Postdoc? Curious about transitioning from academia to industry? Our Career Evening features a panel discussion and meet-and-greets with no less than 5 professionals from diverse career paths:
 
 - [Ladislav Kavan](https://users.cs.utah.edu/~ladislav/), Research Scientist at Reality Labs.
 - [Derek Yu](https://www.zuehlke.com/en/derek-yu-0), Principal Consultant in Cybersecurity at Zühlke.
 - [Ana Klimovic](https://anakli.inf.ethz.ch/), Assistant Professor at ETH Zurich.
 - [Julia Hesse](https://juliahesse.de/), Research Scientist at IBM Research Zurich.
-- [Matthias Baumgartner](https://www.linkedin.com/in/matthias-baumgartner-a40297263/?originalSubdomain=ch), Senior Machine Learning Engineer at BLP Digital AG
+- [Matthias Baumgartner](https://www.linkedin.com/in/matthias-baumgartner-a40297263/?originalSubdomain=ch), Senior Machine Learning Engineer at BLP Digital AG.
 
 Whether you're eyeing a future in academia or considering other avenues, join us for an enlightening discussion and discover the possibilities that await!
 
