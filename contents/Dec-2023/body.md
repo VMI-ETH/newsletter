@@ -1,5 +1,17 @@
 ## 🔊 Announcements
 
+### New VMI Board
+
+Just a week ago, VMI held its General Assembly at which three new board members were elected.
+We warmly welcome:
+
+* Alexandre Binninger (Interactive Geometry Lab),
+* Francesca Falzon (Applied Cryptography Group), and
+* Sverrir Thorgeirsson (Advanced Software Technologies Lab).
+
+At the same time, Matilda Backendal, long an active VMI member and former president, decided to step down from her position on the executive board.
+Thank you, Matilda, for your years of great work!
+
 ### Salary Increases for Doctoral Students
 
 Earlier this month, ETH announced that the salaries of Doctoral students will be decoupled from the SNF rate and receive the same adjustments for inflation as all other staff in 2024.
