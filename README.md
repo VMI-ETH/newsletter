@@ -18,12 +18,12 @@ pipenv install
 To compile a newsletter, run:
 
 ```sh
-pipenv run python ./mkmail.py --date DATE
+./mknewsletter.html --date=Dec-2023
 ```
 
 Date must be a directory within `./contents`.
 
-For more information, run:
+For more information, inspect the script or run:
 
 ```sh
 pipenv run python ./mkmail.py --help
