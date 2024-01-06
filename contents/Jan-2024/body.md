@@ -30,3 +30,9 @@ Don't hesitate to reach out!
 ## 📅 Upcoming Events
 
 ### Bowling Night
+
+**January 24, 18:20**
+
+Join us for the first event of the year at Bowlingcenter Zürich!
+
+[Sign up here.](https://forms.gle/Ecee1nBjq4SqhfEi9)
