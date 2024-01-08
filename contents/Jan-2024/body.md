@@ -1,18 +1,18 @@
 ## 🔊 Announcements
 
-### What course do you teach or take next semester? Join the VMI Board!
+### What course should you teach or take next semester? Join the VMI Board!
 
 We are looking for one or two new board members.
-As a VMI board member, you can gain exciting insights into the politics of ETH and your department, support your colleagues, and organize fun events through which you can meet people in other institutes.
+As a VMI board member, you can gain exciting insights into the politics of ETH and your department, support your colleagues, and organize fun events through which you can meet people from other institutes.
 
 Example activities of VMI include:
 
-- Negotiating salaries with ETH Zurich for Doctoral students as part of the salary working group with AVETH
+- Negotiating salaries for Doctoral students as part of the salary working group with AVETH
 - Designing teaching evaluations for the teaching assistants in our department
-- Organizing the summer retreat with around 64 participants
-- Welcoming new members of our department with welcome bags and at the welcome event
+- Organizing the summer retreat for around 64 participants
+- Welcoming new members of the department with welcome bags and at the welcome event
 
-Work on the VMI board can be voluntary, but can also be compensated with one teaching point or up to four credit points, i.e., it can be a replacement for both taking courses and offering them.
+Work on the VMI board can be voluntary, but it can also be compensated with one teaching point or up to four credit points i.e., it can be a replacement for both taking courses and offering them.
 If you are interested, get in touch: [vmi-contact@lists.inf.ethz.ch](mailto:vmi-contact@lists.inf.ethz.ch)
 
 ### New Helpdesk Volunteer
