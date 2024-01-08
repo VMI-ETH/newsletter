@@ -3,16 +3,16 @@
 ### What course do you teach or take next semester? Join the VMI Board!
 
 We are looking for one or two new board members.
-On the VMI board, you can gain exciting insights into the politics of ETH and our department, support your colleagues in problems, and organize fun events at which you can get to know new institutes of our department.
+As a VMI board member, you can gain exciting insights into the politics of ETH and your department, support your colleagues, and organize fun events through which you can meet people in other institutes.
 
 Example activities of VMI include:
 
-- Salary negotiations with ETH Zurich for Doctoral students as part of the salary working group with AVETH
-- Design of teaching evaluations of teaching assistants at our department
+- Negotiating salaries with ETH Zurich for Doctoral students as part of the salary working group with AVETH
+- Designing teaching evaluations for the teaching assistants in our department
 - Organizing the summer retreat with around 64 participants
 - Welcoming new members of our department with welcome bags and at the welcome event
 
-Work on the VMI board can be voluntary, but can also be compensated with one teaching point or up to four credit points, i.e., it can be a replacement both for taking courses and offering them.
+Work on the VMI board can be voluntary, but can also be compensated with one teaching point or up to four credit points, i.e., it can be a replacement for both taking courses and offering them.
 If you are interested, get in touch: [vmi-contact@lists.inf.ethz.ch](mailto:vmi-contact@lists.inf.ethz.ch)
 
 ### New Helpdesk Volunteer
@@ -24,7 +24,7 @@ Thanks for all your work, Martino!
 
 The VMI helpdesk can help you with all kinds of problems.
 Dhruv now knows the various points of contacts at ETH inside out.
-Should you find problems at your workplace, your Doctorate, or your employment, Dhruv can probably tell you where you can find help.
+Should you find problems in your workplace, your Doctorate, or your employment, Dhruv can tell you where you can find help.
 Don't hesitate to reach out!
 
 ## 📅 Upcoming Events
