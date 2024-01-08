@@ -34,6 +34,6 @@ Don't hesitate to reach out!
 **January 24, 18:20**
 
 Kick-off the new year by smashing round objects into cylindrical objects and join us for the first event of the year at Bowlingcenter Zürich!
-The bowling lanes have been reserved and are just waiting for your strikes!
+The bowling lanes have already been reserved and are waiting for your strikes!
 
 [Sign up here.](https://forms.gle/Ecee1nBjq4SqhfEi9)
