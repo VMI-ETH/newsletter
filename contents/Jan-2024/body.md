@@ -1,6 +1,6 @@
 ## 🔊 Announcements
 
-### What course do you TA or take next semester?
+### What course do you teach or take next semester? Join the VMI Board!
 
 We are looking for one or two new board members.
 On the VMI board, you can gain exciting insights into the politics of ETH and our department, support your colleagues in problems, and organize fun events at which you can get to know new institutes of our department.
@@ -20,7 +20,7 @@ If you are interested, get in touch: [vmi-contact@lists.inf.ethz.ch](mailto:vmi-
 Martino Sindaci, our previous volunteer for the VMI helpdesk, left our department and hence stepped down from running the helpdesk.
 Thanks for all your work, Martino!
 
-In the meantime, [Dhruv Nevatia](https://notdhruv.github.io/) volunteered to take over, and has just finished his counseling training at AVETH!
+[Dhruv Nevatia](https://notdhruv.github.io/) volunteered to take over, and has just finished his counseling training at AVETH!
 
 The VMI helpdesk can help you with all kinds of problems.
 Dhruv now knows the various points of contacts at ETH inside out.
@@ -33,6 +33,7 @@ Don't hesitate to reach out!
 
 **January 24, 18:20**
 
-Join us for the first event of the year at Bowlingcenter Zürich!
+Kick-off the new year by smashing round objects into cylindrical objects and join us for the first event of the year at Bowlingcenter Zürich!
+The bowling lanes have been reserved and are just waiting for your strikes!
 
 [Sign up here.](https://forms.gle/Ecee1nBjq4SqhfEi9)
