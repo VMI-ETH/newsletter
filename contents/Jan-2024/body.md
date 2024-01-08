@@ -23,7 +23,7 @@ Thanks for all your work, Martino!
 [Dhruv Nevatia](https://notdhruv.github.io/) volunteered to take over, and has just finished his counseling training at AVETH!
 
 The VMI helpdesk can help you with all kinds of problems.
-Dhruv now knows the various points of contacts at ETH inside out.
+Dhruv now knows the various points of contact at ETH inside out.
 Should you find problems in your workplace, your Doctorate, or your employment, Dhruv can tell you where you can find help.
 Don't hesitate to reach out!
 
