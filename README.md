@@ -18,7 +18,7 @@ pipenv install
 To compile a newsletter, run:
 
 ```sh
-./mknewsletter.html --date=Dec-2023
+./mknewsletter.sh --date=Dec-2023
 ```
 
 Date must be a directory within `./contents`.
