@@ -28,3 +28,7 @@ For more information, inspect the script or run:
 ```sh
 pipenv run python ./mkmail.py --help
 ```
+
+## Sending the Newsletter
+
+With most mail clients, you can simply open the resulting `.html` file (by default `newsletter.html`), select everything (press Cmd/Ctrl+A), copy (Cmd/Ctrl+C), and paste it (Cmd/Ctrl+V) in a new mail of your mail client of choice.
