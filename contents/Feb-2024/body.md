@@ -19,8 +19,8 @@ Please write to [vmi-contact@lists.inf.ethz.ch](mailto:vmi-contact@lists.inf.eth
 
 Are you itching for a dose of creativity? Looking for a delightful gathering to ring in the Spring Semester? Dive into our captivating Pottery Painting evening! Whether you come with your crew or are keen to forge new friendships, this creative session offers the perfect opportunity to adorn a plate or a mug with your unique designs. VMI welcomes you to Loki Studio, conveniently located near Oerlikon, for an evening of artistic adventure!
 
---> [More information on our website](https://vmi.ethz.ch/news/event/2024/01/29/pottery-event/)
---> [Sign-up here.](https://forms.gle/pfQD1HpZ2VeFSArW7)
+* [More information on our website](https://vmi.ethz.ch/news/event/2024/01/29/pottery-event/)
+* [Sign-up here.](https://forms.gle/pfQD1HpZ2VeFSArW7)
 
 
 ### Non-EU/EFTA Postdoc Event
