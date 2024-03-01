@@ -12,9 +12,9 @@ We will reach out to you later and confirm which slots you can attend and provid
 
 ## 📅 Upcoming Events
 
-**Monday, March 18, 12:00, CAB F 88**
-
 ### VMI Lunch + General Assembly
+
+**Monday, March 18, 12:00, CAB F 88**
 
 We would like to invite you to the VMI lunch followed by our General Assembly!
 
