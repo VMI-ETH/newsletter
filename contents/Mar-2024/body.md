@@ -24,7 +24,7 @@ During the lunch, we'll have some food and would like to hear about your views o
 
 ### Board Game Night
 
-**Monday, March 11, Location TBA, 18:30**
+**Monday, March 11, CNB E 100.5, 18:30**
 
 Bring your friends and your favourite board games to VMI Game Night! We’ll have a selection of fun board games to try out, as well as free drinks and snacks.
 
