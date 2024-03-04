@@ -10,6 +10,25 @@ If you are interested in joining these interviews, please fill in **[this form](
 You can sign-up for multiple slots, and each slot is for a different candidate.
 We will reach out to you later and confirm which slots you can attend and provide you with more details for the day.
 
+### Join the Studies Committee
+
+VMI members will elect new representative for the studies committee in our upcoming General Assembly (see below).
+One position in the studies committee is vacant, and we are looking for candidates interested in joining the committee!
+Work in the committee can be compensated with one credit point for one semester.
+
+The studies committee manages teaching at our department.
+It discusses course evaluations and decides the course catalog and new courses at D-INFK.
+
+If you are interested, please reach out to [vmi-contact@lists.inf.ethz.ch](mailto:vmi-contact@lists.inf.ethz.ch)!
+
+### Organize the Höngger Games
+
+This year, AVETH will organize the legendary Höngger Games again!
+Teams from different departments battle for victory and eternal glory on Hönggerberg campus by playing a wild variety of games.
+AVETH is assembling a team to organize the games for their Department, the BBQ and the afterparty.
+
+If you are interested in helping to organize the games, please reach out to [vmi-contact@lists.inf.ethz.ch](mailto:vmi-contact@lists.inf.ethz.ch)!
+
 ## 📅 Upcoming Events
 
 ### VMI Lunch + General Assembly

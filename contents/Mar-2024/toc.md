@@ -1,4 +1,6 @@
 * [Interview Faculty Candidates](#interview-faculty-candidates)
 * [General Assembly](#general-assembly)
+* [Join the Studies Committee](#join-the-studies-committee)
+* [Organize the Höngger Games](#organize-the-höngger-games)
 * [Board Game Night](#board-game-night)
 * [Bouldering](#bouldering)
