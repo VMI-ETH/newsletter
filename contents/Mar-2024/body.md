@@ -61,3 +61,4 @@ Are you ready to put your climbing skills to the test and have a blast while doi
 Address: Leutschenbachstrasse 44, 8050 Zürich
 
 [Sign up here.](https://forms.gle/QHE4eNWj1wii36hg7)
+To welcome inexperienced boulderers, VMI covers the costs of renting bouldering shoes!
