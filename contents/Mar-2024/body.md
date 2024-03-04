@@ -18,15 +18,18 @@ We will reach out to you later and confirm which slots you can attend and provid
 
 We would like to invite you to the VMI lunch followed by our General Assembly!
 
-During the lunch, we'll have some food and would like to hear about your views on the department, as well as any ideas or suggestions you have for VMI. At the General Assembly (beginning 12:45), we will present the work of the past year, discuss plans for 2024, and elect new representatives and a new board.
+During the lunch, we'll have some food and would like to hear about your views on the department, as well as any ideas or suggestions you have for VMI.
+At the General Assembly (beginning 12:45), we will present the work of the past year, discuss plans for 2024, and elect new representatives and a new board.
+A formal invitation will be sent soon.
 
-[Sign up here.](https://forms.gle/hnRhepiPjo9HQo2HA)
+Please sign up for the VMI lunch [here](https://forms.gle/hnRhepiPjo9HQo2HA)!
+It is not required to sign up for the General Assembly.
 
 ### Board Game Night
 
 **Monday, March 11, CNB E 100.5, 18:30**
 
-Bring your friends and your favourite board games to VMI Game Night! We’ll have a selection of fun board games to try out, as well as free drinks and snacks.
+Bring your friends and your favourite board games to VMI Game Night! We'll have a selection of fun board games to try out, as well as free drinks and snacks.
 
 [Sign up here.](https://forms.gle/Dr6k4RGwvUcrm4xp8)
 
