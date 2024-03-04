@@ -14,7 +14,7 @@ We will reach out to you later and confirm which slots you can attend and provid
 
 VMI members will elect new representative for the studies committee in our upcoming General Assembly (see below).
 One position in the studies committee is vacant, and we are looking for candidates interested in joining the committee!
-Work in the committee can be compensated with one credit point for one semester.
+Work in the committee can be compensated with one ECTS for one semester.
 
 The studies committee manages teaching at our department.
 It discusses course evaluations and decides the course catalog and new courses at D-INFK.
