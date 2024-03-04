@@ -52,7 +52,7 @@ Bring your friends and your favourite board games to VMI Game Night! We'll have 
 
 [Sign up here.](https://forms.gle/Dr6k4RGwvUcrm4xp8)
 
-### Bouldering
+### Boulder4Drinks
 
 **Thursday, March 21, 19:00, Minimum Leutsch (Oerlikon)**
 
