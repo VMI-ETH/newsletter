@@ -34,3 +34,11 @@ Bring your friends and your favourite board games to VMI Game Night! We'll have 
 [Sign up here.](https://forms.gle/Dr6k4RGwvUcrm4xp8)
 
 ### Bouldering
+
+**Thursday, March 21, 19:00, Minimum Leutsch (Oerlikon)**
+
+Are you ready to put your climbing skills to the test and have a blast while doing it? Join us at Minimum Leutsch for our upcoming Boulder4Drinks event, an indoor bouldering extravaganza like no other! We will mark a series of thrilling bouldering routes that will test climbers of all skill levels. From beginner-friendly scrambles to expert-level problems, there's something for everyone. Complete a few marked challenges, and you'll receive a token for a free drink. Yes, you heard that right – tackle the boulders, and the drinks are on us!
+
+Address: Leutschenbachstrasse 44, 8050 Zürich
+
+[Sign up here.](https://forms.gle/QHE4eNWj1wii36hg7)
