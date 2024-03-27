@@ -13,3 +13,9 @@ We will reach out to you later and confirm which slots you can attend and provid
 ## 📅 Upcoming Events
 
 ### Learn how to Juggle
+
+**Tuesday, April 9th, 18:00, OAT S 13**
+
+Get ready to impress your friends with a new skill - learn to juggle balls! In just about 20 minutes, you'll craft your very own set of juggling balls, followed by plenty of time to dive into the basics of juggling. Even if you're already a pro at juggling, you're welcome to join us and lend a hand in teaching others. And if you can juggle something different, feel free to bring it along! Let's share our skills and have fun together. We'll provide all the materials necessary to make your own juggling balls, along with complimentary snacks and drinks. See you there!
+
+[Sign up here.](https://forms.gle/fTvdCTz5jyksKeFV7)
