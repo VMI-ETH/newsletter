@@ -1,7 +1,6 @@
 Dear colleagues,
 
-We wish you a happy Easter weekend!
-We hope that you are looking forward to it.
+We wish you a happy Easter weekend and hope that you are looking forward to it!
 
 In April, there will be more faculty candidates to interview.
 This time, the candidates are for Theoretical Computer Science.
