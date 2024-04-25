@@ -25,7 +25,7 @@ More information on the survey can be found [here](https://vseth.ethz.ch/politic
 
 ### Ropepark
 
-On Ascension Day, **Thursday, May 9th, 13:00** we meet at Zurich HB to go together to the adventure park at Rheinfall, the area-wise largest adventure park in Switzerland offering stunning views onto Rheinfalls and 14 different routes of all difficulty levels.
+On Ascension Day, **Thursday, May 9th, 13:00** we meet at Zurich HB to go together to the adventure park at Rheinfall, the largest adventure park in Switzerland offering stunning views onto Rheinfall and 14 different routes of all difficulty levels.
 
 Learn more and sign up [here](https://vmi.ethz.ch/news/event/2024/04/25/ropepark/).
 
