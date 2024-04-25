@@ -15,7 +15,7 @@ If you don't want to miss the sign-up and other news, be sure to fill in the ["K
 
 ### WiegETHs/HowsETHgoing?
 
-The new *wiegETHs* survey is out! VSETH and AVETH want to know more about how you are doing and how we can better support you. Are your studies or work stressing you out? Do you have enough free time? Can you manage financially? Do you feel like you can be yourself? It's important for us to know this.
+The new *wiegETHs* survey is out! VSETH and AVETH, our parent organization, want to know more about how you are doing and how we can better support you. Are your studies or work stressing you out? Do you have enough free time? Can you manage financially? Do you feel like you can be yourself? It's important for us to know this.
 
 **Please fill in the anonymous survey that was sent to you via e-mail**, and help us make ETH a better and more welcoming place for everyone!
 
