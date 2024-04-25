@@ -13,14 +13,19 @@ More information on the survey can be found under the following link: [link](htt
 
 ## 📅 Upcoming Events
 
-### Rheinfall
+### Ropepark
 
-**Thursday, May 9th, 18:00, OAT S 13**
+On Ascension Day, **Thursday, May 9th, 13:00** we meet at Zurich HB to go together to the adventure park at Rheinfall, the area-wise largest adventure park in Switzerland offering stunning views onto Rheinfalls and 14 different routes of all difficulty levels.
 
-
-[Sign up here.](https://forms.gle/...)
+Learn more and sign up [here](https://vmi.ethz.ch/news/event/2024/04/25/ropepark/)
 
 <hr>
+
+### Beer tasting
+
+Join us for a trip to beer heaven and try some fantastic beers hand-selected by Nick, retired king of PapperlaPub, on **Thursday, May 23 starting at 19:00 in CAB**.
+
+Learn more and sign up [here](https://vmi.ethz.ch/news/event/2024/04/25/beertasting/)
 
 ## Other
 

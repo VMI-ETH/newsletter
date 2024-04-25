@@ -1,3 +1,3 @@
 * [WiegETHs survey](#WiegETHs/HowsETHgoing?)
-* [Rheinfall visit](#Rheinfall)
-
+* [Ropepark @ Rheinfall](#Ropepark)
+* [Beer tasting](#Beer-tasting)
