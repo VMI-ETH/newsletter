@@ -1,24 +1,26 @@
 ## 🔊 Announcements
 
-## Join the VMI Board!
+### Update on the VMI Summer Retreat
 
-The VMI executive board is looking for new members for the fall semester!
-In particular, we are looking for both **board members** and a new **treasurer**.
-As a VMI board member, you can gain exciting insights into the politics of ETH and your department, support your colleagues, and organize fun events through which you can meet people from other institutes.
+Initial registration for the summer retreat closed on June 23, and we sent confirmation to participants.
+The waitlist is now open!
+In previous years, the waitlist was empty by the time the retreat started, so we encourage you to register!
 
-Example activities of VMI include:
-
-- Organizing the summer retreat for around 64 participants
-- Welcoming new members of the department with welcome bags and at the welcome event
-- Becoming active in ETH politics, e.g., by providing feedback to proposed, new measures, or serving in various boards
-
-Work on the VMI board can be voluntary, but it can also be compensated with one teaching point or up to four credit points i.e., it can be a replacement for both taking courses and offering them.
-If you are interested, get in touch: [vmi-contact@lists.inf.ethz.ch](mailto:vmi-contact@lists.inf.ethz.ch)
+This year's summer retreat takes places in Zermatt.
+You can learn more about the retreat and put yourself on the waitlist [here](https://vmi.ethz.ch/news/event/2024/04/17/retreat/).
 
 ## 📅 Upcoming Events
 
 ### Academic Success
 
-Always wondered how to define success in academia? What to prioritise to shape your career? How personal fulfillment and external recognition balance in an academic career? Join us on **Thursday, July 11, 17:15** at Food&Lab (CAB H 41) on a discussion where high-quality panelists with diverse backgrounds will share their insights on the topic. You’ll have the opportunity to ask all the questions you want and even interact on a more personal level within small groups during an apéro!
+<img style="margin:0em 0em 1em 1em" align="center" src="https://vmi.ethz.ch/images/vmi-academic-success-2024.jpg" width="90%">
 
-Interested? Do not hesitate to [sign-up here](https://forms.gle/GgE1CJxbdave34LW9)! You can find more information about our panelists on [our website](https://vmi.ethz.ch/news/event/2024/06/25/academic-success/).
+Especially young researchers often wonder about their role.
+What is the purpose of academia in society?
+What makes a PhD fulfilling?
+How do you define success in academia? What is important to you, and how do you measure academic achievements?
+Join us on **Thursday, July 11, 17:15** at Food&Lab (CAB H 41) for an evening where we discuss the multifaceted dimensions of happiness and success in academia!
+
+We start with a discussion between high-quality panelists with diverse backgrounds. You’ll have the opportunity to ask all the questions you want and even interact on a more personal level within small groups during an Apéro!
+
+Interested? [Sign-up here](https://forms.gle/GgE1CJxbdave34LW9)! You can find more information about our panelists on [our website](https://vmi.ethz.ch/news/event/2024/06/25/academic-success/).
