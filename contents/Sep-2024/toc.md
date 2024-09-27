@@ -1,0 +1,5 @@
+* [Join a departmental committee!](#join-a-departmental-committee)
+* [Welcome Event](#welcome-event)
+* [Swiss Coffee Festival](#swiss-coffee-festival)
+* [VMI General Assembly](#vmi-general-assembly)
+* [AVETH General Assembly](#aveth-general-assembly)
