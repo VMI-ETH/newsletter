@@ -6,7 +6,7 @@
 
 ### Welcome Event
 
-**Date TBD, [Dozentenfoyer](https://ethz.ch/de/campus/erleben/gastronomie-und-einkaufen/gastronomie/restaurants-und-cafeterias/zentrum/dozentenfoyer.html)**
+**October 9, 2024 [Dozentenfoyer](https://ethz.ch/de/campus/erleben/gastronomie-und-einkaufen/gastronomie/restaurants-und-cafeterias/zentrum/dozentenfoyer.html)**
 
 If you joined D-INFK within the last year, you're invited to our annual Welcome Event for new scientific staff!
 
