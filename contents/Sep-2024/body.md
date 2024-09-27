@@ -19,6 +19,8 @@ If you joined D-INFK within the last year, you're invited to our annual Welcome 
 
 It's a great chance to get to know the department and VMI, meet fellow new staff members, and enjoy an apéro together. We'll also have keynote talks from D-INFK professors on how to make the most of your time at ETH, how to organise your teaching and research responsibilities, and much more.
 
+Please register here: https://forms.gle/H51Uyt6ts2yUg5g16
+
 ### Swiss Coffee Festival
 
 **Saturday, 12 October 2024, Halle 550, Zurich**
@@ -26,8 +28,6 @@ It's a great chance to get to know the department and VMI, meet fellow new staff
 Are you knee-deep in semester course work and deadlines, and need a caffeine pick-me-up to power you through? Or perhaps you are simply an aspiring coffee connoisseur! Well, in either case, look no further! The [Swiss Coffee Festival](https://swisssca.ch/en/swiss-coffee-festival/) is an annual event that takes place in Zurich and show cases some of the exciting coffee companies in Switzerland and beyond, and attendess can even follow the Swiss coffee championships. We will be providing tickets for those interested. 
 
 To register, please fill out the form here: https://forms.gle/9uU54inDUfDWFa4e8
-
-Please register here: https://forms.gle/H51Uyt6ts2yUg5g16
 
 ### October 15, 2024 General Assembly
 
