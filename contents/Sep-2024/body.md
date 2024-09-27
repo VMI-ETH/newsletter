@@ -7,7 +7,7 @@ The scientific staff organization (VMI) is looking for new representatives on tw
 * The Department Conference, which is the highest decision-making body of D-INFK.
 * The Studies Committee, which is tasked with matters related to tuition in the department.
 
-Joining the committees can be rewarded with course points. It is also a great way to get to know how the department works. If you are interested, please let us know.
+Joining the committees can be rewarded with credit points. It is also a great way to get to know how the department works. If you are interested, please contact us.
 
 ## 📅 Upcoming Events
 
@@ -21,7 +21,7 @@ It's a great chance to get to know the department and VMI, meet fellow new staff
 
 Please register here: https://forms.gle/H51Uyt6ts2yUg5g16
 
-### October 15, 2024 General Assembly,
+### October 15, 2024 General Assembly
 
 Hear about what VMI has been up to over the past semester, and our plans for the next semester! We'll also elect new representatives and a new board.
 
