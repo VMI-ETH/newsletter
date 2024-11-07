@@ -6,4 +6,4 @@
   * [Career Evening](#career-evening)
 * Other
   * [Ombudspersons](#do-you-know-about-ombudspersons)
-  * 
+  * [Swiss Coffee Festival Retrospective](#swiss-coffee-festival-retrospective)
