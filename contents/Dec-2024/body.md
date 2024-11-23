@@ -1,16 +1,13 @@
-## 🔊 Announcements
-
-### D-INFK Apéro
-
-**December 16, CAB Forecourt, 17:00-19:00**
-
-The department 
 
 ## 📅 Upcoming Events
 
 ### Career Evening
 
 **November 28, [CAB Food&Lab](https://ethz.ch/en/campus/getting-to-know/cafes-restaurants-shops/gastronomy/restaurants-and-cafeterias/zentrum/food-lab.html), 17:00**
+
+<center>
+  <img width="90%" src="https://vmi.ethz.ch/images/vmi-career-evening-2024.jpg" />
+</center>
 
 We warmly invite you to the [VMI Career Evening](https://vmi.ethz.ch/news/event/2024/11/14/career-evening/)! This edition will focus on the possible career paths outstide of academia. If you have ever wondered what comes next after a PhD or Postdoc in the industry, then this event is particularly relevant to you. Our Career Evening features a panel discussion and meet-and-greets with no less than 5 professionals from diverse career paths:
 
@@ -24,30 +21,10 @@ Join us for an enlightening discussion and discover the possibilities that await
 
 [Sign up here.](https://docs.google.com/forms/d/e/1FAIpQLSfdVWdB6wjETxIO8YccSjZ_6TNKi5DJpWcyDbvOp5J0Te9etQ/viewform)
 
-<center>
-  <img width="90%" src="https://vmi.ethz.ch/images/vmi-career-evening-2024.jpg" />
-</center>
-
-### Running Dinner
-
-**December XX, your house (dinner) and OAT (afterparty), 18:00**
-
-VMI invites you to *Running Dinner* – the tastiest way to meet new people!
-
-At the running dinner, you will eat a three-course dinner during the evening (while preparing one of these courses yourself), followed by an after-party at OAT with everyone who participated in the running dinner!
-
-Team up with a partner (office mate, flat mate, ...) and cook *one* course at your place for you and four other people.
-You will go to someone else's place for the other courses, and will host two other teams for the course that you cook.
-Overall, you meet twelve people during the evening!
-There even is a Wikipedia entry for [Running Dinners](https://de.wikipedia.org/wiki/Running_Dinner) ([English version](https://en.wikipedia.org/wiki/Progressive_dinner))!
-
-[More information & sign up here](website event post).
-We raffle grocery vouchers among early sign-ups!
-
 
 ### Christmas Crafts & Glühwein
 
-**December XX, CAB H 52, 18:30**
+**December 11, CAB H 52, 18:30**
 
 To celebrate the winter season, join us for a cosy evening of painting, crafting, glühwein and Christmas cookies!
 
@@ -55,5 +32,52 @@ We’ll provide everything you need to get creative: canvas, paints, brushes, cr
 
 Spots are limited, so we recommend you sign up early!
 
-[Sign up here.]()
+[Sign-up here.](https://forms.gle/bods1tBHQN7z8Tz16)
 
+### VMI-CSNOW Lunch
+
+**December 12, CAB H52, 12:30 pm**
+
+<center>
+  <img width="90%" src="https://vmi.ethz.ch/images/vmi-csnow-lunch-december-2024.png" />
+</center>
+
+Are you interested in connecting with other like-minded women in computer science at ETH? VMI and CSNOW would like to help women PhD students, postdocs and other researchers at D-INFK connect with each other and provide a platform for them to share their experience and knowledge. Join us for lunch on December 12 @ 12:30 pm in CAB H52 to see new and familiar department members, and learn about the mentor/mentee opportunities available. Please sign up by December 9.
+
+[Sign up here.](https://forms.gle/SW8z4B7vMYNDnrdN8)
+
+
+## 🔊 Announcements
+
+### D-INFK Glühwein-Apéro
+
+**December 16, CAB Forecourt, 17:00-19:00**
+
+The department organizes a Glühwein-Apéro to celebrate altogether the end of the year.
+
+If you want to talk to VMI board members or your fellow VMI members, we will have our own small spot. Don't hesitate to come meet us!
+
+[Sign-up here.](https://inf.ethz.ch/news-and-events/events/gluehweinapero.html)
+
+### ETH Library Scientific Staff Sounding Board
+
+Are you interested in shaping ETH Library services for non-faculty scientific staff? Spend just six hours a year contributing to key projects like improving access to research resources, publishing support, and more.
+
+
+What’s in it for you?
+
+* Influence library services tailored to your needs!
+* Compensation: CHF 30/hour in Orell Füssli gift cards.
+* Networking opportunities
+* No preparation required—just your insights!
+* Commit for at least one year.
+
+Interested? Contact [boardmaster@library.ethz.ch](mailto:boardmaster@library.ethz.ch) by **10 December 2024**.
+
+### Create your own VMI events
+
+Have an event idea you’d like to bring to life? Whether it’s a workshop, a social event, or something completely unique, we’d love to hear your suggestions! As a VMI member, you have the opportunity to propose events, and we can help organize and even fund them.
+
+Taking the initiative is a great way to engage with the operations of VMI—and it’s especially beneficial if you’re considering a future position on the VMI Board. Board positions come with the added bonus of earning teaching points!
+
+So, if you’ve got a vision for an event or want to learn more about how you can get involved, reach out to us at [vmi-contact@lists.inf.ethz.ch](mailto:vmi-contact@lists.inf.ethz.ch)!
