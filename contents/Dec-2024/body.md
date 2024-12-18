@@ -8,23 +8,28 @@
 <center>
   <img width="90%" src="https://vmi.ethz.ch/images/vmi-career-evening-2024.jpg" />
 </center>
+<br/>
+We warmly invite you to the [VMI Career Evening](https://vmi.ethz.ch/news/event/2024/11/14/career-evening/)! This edition will focus on the possible career paths outstide of academia. If you have ever wondered what comes next after a PhD or Postdoc in the industry, then this event is particularly relevant to you. Our Career Evening features a panel discussion and meet-and-greets with no less than 5 professionals from diverse career paths.
 
-We warmly invite you to the [VMI Career Evening](https://vmi.ethz.ch/news/event/2024/11/14/career-evening/)! This edition will focus on the possible career paths outstide of academia. If you have ever wondered what comes next after a PhD or Postdoc in the industry, then this event is particularly relevant to you. Our Career Evening features a panel discussion and meet-and-greets with no less than 5 professionals from diverse career paths:
-
-- [Philipp Herholz](https://phherholz.github.io/), Research Scientist at Meta's Reality Labs.
+<!-- - [Philipp Herholz](https://phherholz.github.io/), Research Scientist at Meta's Reality Labs.
 - [Mark Müller](https://ch.linkedin.com/in/mark-m%C3%BCller-8bb4b1140), Co-founder and CTO at LogicStar.AI.
 - [Elisa Rondini](https://www.linkedin.com/in/elisarondini/), Head of Product & Lifecycle Excellence at Siemens.
 - [Anil Kurmus](https://research.ibm.com/people/anil-kurmus), Senior Research Scientist at IBM Research.
-- [Silvan Weder](https://www.silvanweder.com/), Co-Founder & CEO at JOSEPHA.
+- [Silvan Weder](https://www.silvanweder.com/), Co-Founder & CEO at JOSEPHA. -->
 
 Join us for an enlightening discussion and discover the possibilities that await!
 
 [Sign up here.](https://docs.google.com/forms/d/e/1FAIpQLSfdVWdB6wjETxIO8YccSjZ_6TNKi5DJpWcyDbvOp5J0Te9etQ/viewform)
 
 
-### Christmas Crafts & Glühwein
+### Christmas Crafts
 
 **December 11, CAB H 52, 18:30**
+
+
+<center>
+  <img width="90%" src="https://vmi.ethz.ch/images/christmas-crafts-2022.jpg" />
+</center>
 
 To celebrate the winter season, join us for a cosy evening of painting, crafting, glühwein and Christmas cookies!
 
@@ -55,24 +60,22 @@ Are you interested in connecting with other like-minded women in computer scienc
 
 The department organizes a Glühwein-Apéro to celebrate altogether the end of the year.
 
-If you want to talk to VMI board members or your fellow VMI members, we will have our own small spot. Don't hesitate to come meet us!
+If you want to talk to VMI board members or your fellow VMI members, we will have our own small spot. Look for a sign that says "VMI Corner", and don't hesitate to come meet us!
 
 [Sign-up here.](https://inf.ethz.ch/news-and-events/events/gluehweinapero.html)
 
-### ETH Library Scientific Staff Sounding Board
+### Volunteers needed to represent D-INFK at the ETH Library Scientific Staff Sounding Board
 
 Are you interested in shaping ETH Library services for non-faculty scientific staff? Spend just six hours a year contributing to key projects like improving access to research resources, publishing support, and more.
 
-
 What’s in it for you?
 
-* Influence library services tailored to your needs!
+* Influence library services tailored to your needs (and the needs of D-INFK)!
 * Compensation: CHF 30/hour in Orell Füssli gift cards.
 * Networking opportunities
 * No preparation required—just your insights!
-* Commit for at least one year.
 
-Interested? Contact [boardmaster@library.ethz.ch](mailto:boardmaster@library.ethz.ch) by **10 December 2024**.
+Interested?  Please read the [request for participation here](https://docs.google.com/document/d/10vEFJCBOtAGjZ4M8-uhk2Ig4EqlfC2zHKGXqifIspGY/edit?tab=t.0) and contact either us or [boardmaster@library.ethz.ch](mailto:boardmaster@library.ethz.ch) by December 10th.
 
 ### Create your own VMI events
 
