@@ -20,8 +20,16 @@ If you are interested or have any question about the positions, get in touch at 
 
 ### Well-being events initiative
 
+<center>
+  <img width="50%" src="https://unworkshop.science/static/e2ba3d6b71a862ca79ac028717e192a8/f46cf/meeting.avif" />
+</center>
+
 We want to cater to your needs, so we need to know about them!
 
+VMI is committed to organize events focused on academic excellence, professional education, and well-being. We want to be sure that we dedicate our efforts to solve real problems. Is there any domain in which you would like to get more support?
+To help us design our future events in the scope of these objectives, we would be grateful if you took 5 min to complete [this very short survey](https://forms.gle/A7qEXV1XTSuNmz8A9). 
+
+In the past, VMI organized a lot of such workshops. You can have a glance at these [here](https://vmi.ethz.ch/wellbeing/) if you want to have a better idea about what we're talking about.
 
 ## 📅 Upcoming Events
 
@@ -43,4 +51,5 @@ Overall, you meet twelve people during the evening!
 There even is a Wikipedia entry for [Running Dinners](https://de.wikipedia.org/wiki/Running_Dinner) ([English version](https://en.wikipedia.org/wiki/Progressive_dinner))!
 
 [Sign up here](https://forms.gle/c6tu8wJYM2YLYv9H9).
+
 [More information here](https://vmi.ethz.ch/news/event/2024/12/16/running-dinner/).
