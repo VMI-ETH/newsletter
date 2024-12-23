@@ -4,4 +4,6 @@ Is there a better Christmas gift than a Newsletter from your favorite associatio
 
 Should you still be looking for new year's resolutions, can we suggest joining the VMI board? It is great fun and can be an alternative to teaching or taking courses! See below for more information.
 
+See you in 2025, hopefully relaxed and refreshed for an exciting new year!
+
 -- Your VMI Board

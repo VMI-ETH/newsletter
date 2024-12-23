@@ -2,6 +2,10 @@
 
 ### What course should you teach or take next semester? Join the VMI Board instead!
 
+<center>
+  <img width="50%" src="https://vmi.ethz.ch/images/vmi_members.png" />
+</center>
+
 VMI board member veterans are leaving, so new spots on the board are opening! Don't miss out on this opportunity!
 
 As a VMI board member, you can gain exciting insights into the politics of ETH and your department, support your colleagues, and organize fun events through which you can meet people from other institutes.
@@ -35,15 +39,15 @@ In the past, VMI organized a lot of such workshops. You can have a glance at the
 
 ### Running Dinner
 
-**January 25,your house (dinner) and OAT (afterparty), 18:00**
+**January 25, your house (dinner) 18:00 - 22:00**
 
 <!-- <center>
   <img width="50%" src="https://vmi.ethz.ch/images/2025_running_dinner.jpg" />
 </center> -->
 
-VMI invites you to *Running Dinner* – the tastiest way to meet new people!
+VMI invites you to the *Running Dinner* – the tastiest way to meet new people!
 
-At the running dinner, you will eat a three-course dinner during the evening (while preparing one of these courses yourself), followed by an after-party at OAT with everyone who participated in the running dinner!
+At the running dinner, you will eat a three-course dinner during the evening (while preparing one of these courses yourself), followed by an after-party with everyone who participated in the running dinner!
 
 Team up with a partner (office mate, flat mate, ...) and cook *one* course at your place for you and four other people.
 You will go to someone else's place for the other courses, and will host two other teams for the course that you cook.
