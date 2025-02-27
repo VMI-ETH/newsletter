@@ -41,6 +41,10 @@ Don’t miss out—sign up now and glide into a fantastic winter experience! ❄
 
 **Monday, March 24th 4:00-6:30pm, CAB H 52**
 
+<center>
+  <img src="https://vmi.ethz.ch/images/2025_workshop_leadership.png"/>
+</center>
+
 Leadership isn’t just a skill—it’s the foundation of progress in academia. To drive innovation and tackle challenges, we must embrace adaptive, visionary leadership that inspires change and fosters collaboration.
 
 We’re thrilled to invite you to the second event in our academic excellence & Well-being series : the Adaptive Leadership Workshop! Guided by Dr. Amelie Güntner, Lecturer and Research Fellow in Organizational Behavior at ZHAW, this workshop will equip you with practical strategies to lead effectively in academia—no matter the situation.
