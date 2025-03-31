@@ -1,0 +1,31 @@
+
+
+## 📅 Upcoming Events
+
+
+### Building Bridges: Adaptive Leadership for Collaborative Science
+
+**Monday, March 24th 4:00-6:30pm, CAB H 52**
+
+<center>
+  <img src="contents/Apr-2025 /unrevealed-event.png"/>
+</center>
+
+This April, something thrilling is on the way, and it's going to test your reflexes and quick thinking! It’s an event that’ll have you feeling both focused and energized—perfect for a little friendly competition.
+
+Can you guess what it is? Stay tuned for the reveal!
+
+### Tips of the month: Adaptive Leadership Hacks in Academia
+
+
+<center>
+  <img src="contents/Apr-2025 /Leadership.jpeg">
+</center>
+
+
+As researchers at ETH, we’re constantly navigating complex projects, collaborations, and high-pressure environments. Flexibility and resilience are just as crucial as technical expertise. That’s why our well-being event series continued with a workshop on Adaptive Leadership—a session designed to help us lead effectively in dynamic and uncertain situations. Here are some key takeaways from our discussion:
+
+* Embrace Change as a Constant: In research, as in leadership, unexpected challenges are the norm. The best leaders adapt by staying open-minded, continuously learning, and shifting strategies when needed. Think of it like debugging—when one approach doesn’t work, you refine and iterate!
+* Empower, Don’t Micromanage: Great leadership isn’t about having all the answers but about fostering a culture where others can thrive. Trust your team, delegate responsibilities, and encourage diverse perspectives—collaboration fuels innovation.
+* Balance Logic with Emotional Intelligence: Data and analysis guide our research, but leadership also requires understanding emotions—both your own and those of others. Active listening, empathy, and clear communication help navigate conflicts and build stronger teams.
+**Fun Fact**: The brain’s neuroplasticity means we can develop leadership skills just like we build research expertise. Every challenge you tackle makes you more adaptable—so embrace the learning curve!
