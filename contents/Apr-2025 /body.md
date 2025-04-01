@@ -12,6 +12,8 @@ The VMI Summer Retreat is for all scientific staff at the Department of Computer
 
 Sounds like a good plan? Register [here](https://docs.google.com/forms/d/e/1FAIpQLScrWNC8SlHfW0YXgO60thi0IhwyBhD5VgQA6uBIDA1dQkA6-A/viewform?usp=sharing)!
 
+Stay tuned for more details!
+
 ### New VMI Board and Representatives
 In March, we held our bi-annual General Assembly and elected a new VMI board:
 Graciana Aad and Francesca Falzon took the role of co-president of VMI (starting May), Yutong Chen still serves as board member, and Sverrir Thorgeirsson still serves as VMI's treasurer.
