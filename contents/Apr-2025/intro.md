@@ -1,5 +1,7 @@
 Dear colleagues,
 
+We are super excited to announce that our VMI Summer Retreat 2025 will take place in Locarno! And...you can register starting...now!!
+
 We are delighted to present to you our new board! We wish them a happy and successful term!
 
 ANNND we're back on Instagram! make sure you follow us to stay up-to-date on our latest activities!

@@ -54,4 +54,5 @@ As researchers at ETH, we’re constantly navigating complex projects, collabora
 * Embrace Change as a Constant: In research, as in leadership, unexpected challenges are the norm. The best leaders adapt by staying open-minded, continuously learning, and shifting strategies when needed. Think of it like debugging—when one approach doesn’t work, you refine and iterate!
 * Empower, Don’t Micromanage: Great leadership isn’t about having all the answers but about fostering a culture where others can thrive. Trust your team, delegate responsibilities, and encourage diverse perspectives—collaboration fuels innovation.
 * Balance Logic with Emotional Intelligence: Data and analysis guide our research, but leadership also requires understanding emotions—both your own and those of others. Active listening, empathy, and clear communication help navigate conflicts and build stronger teams.
+
 **Fun Fact**: The brain’s neuroplasticity means we can develop leadership skills just like we build research expertise. Every challenge you tackle makes you more adaptable—so embrace the learning curve!
