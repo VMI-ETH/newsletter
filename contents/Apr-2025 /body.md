@@ -1,10 +1,20 @@
 
 ## 🔊 Announcements
+### VMI Summer Retreat 2025
 
+<center>
+  <img src="contents/Apr-2025 /summer-retreat-poster.png"/>
+</center>
+
+We are very happy to announce the VMI Summer Retreat 2025, which will take place in the beautiful Locarno on August 23-26 and 28-31! Registration opens **NOW**.
+
+The VMI Summer Retreat is for all scientific staff at the Department of Computer Science. It is a great opportunity to meet other members of our department, learn about their research, and have some fun. Participation only costs CHF 60, which covers most expenses of the retreat, including accommodation, and most meals.
+
+Sounds like a good plan? Register [here](https://docs.google.com/forms/d/e/1FAIpQLScrWNC8SlHfW0YXgO60thi0IhwyBhD5VgQA6uBIDA1dQkA6-A/viewform?usp=sharing)!
 
 ### New VMI Board and Representatives
 In March, we held our bi-annual General Assembly and elected a new VMI board:
-Graciana Aad and Francesca Falzon took the role of co-president of VMI (starting May), Yutong Chen still serves as VMI's secretary, and Sverrir Thorgeirsson still serves as VMI's treasurer.
+Graciana Aad and Francesca Falzon took the role of co-president of VMI (starting May), Yutong Chen still serves as board member, and Sverrir Thorgeirsson still serves as VMI's treasurer.
 
  At the same time, Alexandre Binninger stepped down from presidency and Nabil Abubaker will serve as the president till May. Thank you all for your invaluable service, dedication, and commitment to VMI!
 

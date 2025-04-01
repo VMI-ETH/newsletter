@@ -1,3 +1,4 @@
+* [VMI Summer Retreat 2025](#vmi-summer-retreat-2025)
 * [New VMI Board and Representatives](#new-vmi-board-and-representatives)
 * [WE ARE BACK on Instagram](#we-are-back-on-instagram)
 * [The Event That Shall Not Be Named Yet](#the-event-that-shall-not-be-named-yet)
