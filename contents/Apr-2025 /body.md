@@ -1,6 +1,14 @@
 
 ## 🔊 Announcements
 
+
+### New VMI Board and Representatives
+In March, we held our bi-annual General Assembly and elected a new VMI board:
+Graciana Aad and Francesca Falzon took the role of co-president of VMI (starting May), Yutong Chen still serves as VMI's secretary, and Sverrir Thorgeirsson still serves as VMI's treasurer.
+
+ At the same time, Alexandre Binninger stepped down from presidency and Nabil Abubaker will serve as the president till May. Thank you all for your invaluable service, dedication, and commitment to VMI!
+
+
 ### WE ARE BACK on Instagram
 
 Guess what!! **VMI is now back on [Instagram](https://www.instagram.com/vmi.ethz?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)**! Follow us now so that you do not miss any of our events and news
