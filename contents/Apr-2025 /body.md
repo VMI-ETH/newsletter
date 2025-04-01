@@ -1,11 +1,18 @@
 
+## 🔊 Announcements
+
+### WE ARE BACK on Instagram
+
+Guess what!! **VMI is now back on [Instagram](https://www.instagram.com/vmi.ethz?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)**! Follow us now so that you do not miss any of our events and news
+
+
 
 ## 📅 Upcoming Events
 
 
-### Building Bridges: Adaptive Leadership for Collaborative Science
+### The Event That Shall Not Be Named Yet
 
-**Monday, March 24th 4:00-6:30pm, CAB H 52**
+**April 2025**
 
 <center>
   <img src="contents/Apr-2025 /unrevealed-event.png"/>
