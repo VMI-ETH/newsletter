@@ -3,7 +3,7 @@
 ### VMI Summer Retreat 2025
 
 <center>
-  <img src="contents/Apr-2025 /summer-retreat-poster.png"/>
+  <img src="https://vmi.ethz.ch/images/2025-summer-retreat-poster.png"/>
 </center>
 
 We are very happy to announce the VMI Summer Retreat 2025, which will take place in the beautiful Locarno on August 23-26 and 28-31! Registration opens **NOW**.
@@ -34,7 +34,7 @@ Guess what!! **VMI is now back on [Instagram](https://www.instagram.com/vmi.ethz
 **April 2025**
 
 <center>
-  <img src="contents/Apr-2025 /unrevealed-event.png"/>
+  <img src="https://vmi.ethz.ch/images/2025-newsletter-unrevealed-event.png"/>
 </center>
 
 This April, something thrilling is on the way, and it's going to test your reflexes and quick thinking! It’s an event that’ll have you feeling both focused and energized—perfect for a little friendly competition.
@@ -45,7 +45,7 @@ Can you guess what it is? Stay tuned for the reveal!
 
 
 <center>
-  <img src="contents/Apr-2025 /Leadership.jpeg">
+  <img src="https://vmi.ethz.ch/images/2025-newsletter-leadership.jpeg">
 </center>
 
 
