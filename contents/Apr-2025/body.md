@@ -22,10 +22,6 @@ Francesca Falzon and Graciana Aad took the role of co-president of VMI (starting
 
 ### WE ARE BACK on Instagram
 
-<center>
-  <img src="https://vmi.ethz.ch/images/2025-instagram-vmi.jpg"/>
-</center>
-
 Guess what!! **VMI is now back on [Instagram](https://www.instagram.com/vmi.ethz?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)**! Follow us now so that you do not miss any of our events and news!
 
 
