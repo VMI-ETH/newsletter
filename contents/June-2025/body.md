@@ -39,7 +39,7 @@ The VMI Summer Retreat is for all scientific staff at the Department of Computer
 
 Stay tuned for more details!
 
-### To teach or not to teach?! Call for New Board Members!
+### To teach or not to teach?! Call for New Board Member!
 
 Did you know that you can get teaching points by joining the VMI Board?!
 
