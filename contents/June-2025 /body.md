@@ -18,7 +18,7 @@ During this workshop, you will have the chance to share your experiences with yo
 
 Register [here](https://docs.google.com/forms/d/e/1FAIpQLSdJzQtAahB87DDQ6sDASnZkwa9XtYBKnAsPjoLlgaunvqnfHQ/viewform?usp=header)! Hope to see you all!
  
-### VMI Summer Barbecue
+### VMI Summer BBQ
 
 **Thursday, June 12th**
 
@@ -39,7 +39,7 @@ The VMI Summer Retreat is for all scientific staff at the Department of Computer
 
 Stay tuned for more details!
 
-### To teach or not to teach?! Call for New Board Members!!
+### To teach or not to teach?! Call for New Board Members!
 
 Did you know that you can get teaching points by joining the VMI Board?!
 
@@ -62,20 +62,21 @@ Work on the VMI board can be voluntary, but it can also be compensated with one 
 
 
 
-### Tips of the Month: Mindful Transitions Between Tasks 
+### Tips of the Month: Digital Boundaries
 
 
 <center>
   <img src="https://vmi.ethz.ch//images/2025-newsletter-mindful-transition.jpg">
 </center>
 
+As researchers at ETH, we're constantly connected—emails, pings, documents, and data are just a click away. But without boundaries, this always-on state can drain focus and energy. This month's well-being tip is about the importance of **Digital Boundaries**—protecting your attention in a hyper-connected world.
 
-As researchers at ETH, we’re often deep in thought, shifting between tasks, and racing against deadlines. It’s easy to stay in go-mode—but even brief pauses can make a big difference. This month's well-being tip is about the power of Mindful Transitions—a simple habit that can help reduce burnout and sharpen focus.
+**Set Screen-Free Zones:** Designate times or places where screens are off-limits, like during lunch or the first 30 minutes after waking. These mini breaks from tech can reset your nervous system and improve mental clarity.
 
-**Pause Between Tasks:** Give your brain a moment to reset before switching contexts. Just 60–90 seconds of stillness—whether it’s deep breathing, standing up, or stepping away from your screen—can help clear mental clutter and reduce fatigue.
+**Mute with Purpose:** Not every notification needs your attention right now. Customize alerts and set “Do Not Disturb” periods so you can dive deeper into tasks without constant interruptions.
 
-**Start and End with Intention:** Try creating mini-rituals to begin and close your workday. A quick review of your to-do list in the morning, or a moment of reflection at the end of the day, can help you feel more grounded and in control.
+**Single-Task the Digital Way:** It’s tempting to tab-hop, but try closing extra windows or using full-screen mode to focus on one thing at a time. Your brain will thank you with sharper thinking and less stress.
 
-**Presence Over Productivity:** Being fully present in what you're doing—whether it's reading, coding, or collaborating—can lead to better outcomes and a calmer mind. Mindfulness isn’t about doing less; it’s about doing things with clarity.
+**Fun Fact:** Studies show that even the presence of a phone on your desk can reduce cognitive performance. Out of sight really can mean more peace of mind!
 
-**Fun Fact:** Even brief moments of mindfulness can improve working memory and emotional regulation. The brain performs better when it’s given time to breathe! Small moments, big impact!
+**Protect your focus—it’s one of your most valuable resources.**
