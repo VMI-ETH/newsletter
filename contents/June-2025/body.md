@@ -20,9 +20,15 @@ Register [here](https://docs.google.com/forms/d/e/1FAIpQLSdJzQtAahB87DDQ6sDASnZk
  
 ### VMI Summer BBQ
 
-**Thursday, June 12th**
+**Thursday, June 12th at 6pm**
 
+Join us for a fun and tasty Barbecue! Good food, great vibes, and awesome company — don't miss it!
 
+📅 Date: Thursday, June 12th
+🕒 Time: 6pm
+📍 Location: CAB Inner Courtyard
+
+Everyone’s welcome. Bring your appetite and your colleagues!
 
 ## 🔊 Announcements
 ### VMI Summer Retreat 2025
