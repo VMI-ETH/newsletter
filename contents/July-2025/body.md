@@ -27,7 +27,7 @@ Be many!
 **Thank you all for joining!**
 
 <center>
-  <img src="https://vmi.ethz.ch//images//2025-06-28-newsletter-bbq.jpeg">
+  <img src="https://vmi.ethz.ch//images/2025-06-28-newsletter-bbq.jpeg">
 </center>
 
 A big thank you to everyone who joined our summer BBQ! Your presence, laughter, and good vibes made it an amazing gathering. We appreciate you being part of it! Looking forward to the next one!s🌞🍔🌭
@@ -38,7 +38,7 @@ Wishing you a relaxing and enjoyable summer! Make the most of the sunshine!🌞
 
 
 <center>
-  <img src="https://vmi.ethz.ch//images/2025-06-28-newsletter-summer-wishes.jpg">
+  <img src="https://vmi.ethz.ch/images/2025-06-28-newsletter-summer-wishes.jpg">
 </center>
 
 
